@@ -197,3 +197,8 @@ a "termek" tábla "mennyiseg" mezőjében lévő számnál. ha nem nagyobb, akko
 cikkszámot, az éppen bejelentkezett felhasználó azonosítóját, valamint a kívánt
 mennyiség számát beírja a "kosar" táblába, és a "termek" tábla adott cikkszámhoz
 tartozó rekorjának "mennyiseg" mezőjét az adott számmal csökkenti.
+
+**3.4 Kosár**
+
+A kosar.php lap tartalma a "kosar" adattábla adataiból épül fel. Itt található még egy 
+"Megrendelem" gomb, amely segítségével véglegesíthetjük a megrendelésünket.
