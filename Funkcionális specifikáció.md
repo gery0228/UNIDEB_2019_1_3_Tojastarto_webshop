@@ -18,3 +18,18 @@ A felhasználónak lehetősége van az áruk közötti keresésre, egy erre szol
 **1.1.2 Regisztráció:**
 
 A felhasználók vársárlási lehetőségének előfeltétele az előzetes regisztráció. Bizonyos egyéb funkciók is csak regisztráció után válnak elérhetővé. Erre egy külön oldalon megjelenő űrlapon van lehetőség. 
+
+Az űrlap tervezett mezői:
+
+- Vezetéknév*
+- Keresztnév*
+- Cégnév
+- Telefon
+- Szállítási cím*
+- Számlázási cím
+- Felhasználónév*
+- Jelszó*
+- Jelszó mégegyszer*
+- Email cím*
+
+(A csillaggal megjelölt mezők kitöltését kötelezővé tennénk)
