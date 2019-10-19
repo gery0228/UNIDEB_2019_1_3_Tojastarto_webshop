@@ -33,3 +33,5 @@ Az űrlap tervezett mezői:
 - Email cím*
 
 (A csillaggal megjelölt mezők kitöltését kötelezővé tennénk)
+
+A megadott adatok egy adatbázisban kerülnek tárolásra.
