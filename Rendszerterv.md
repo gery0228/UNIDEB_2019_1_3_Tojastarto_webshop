@@ -40,3 +40,20 @@ licenc érvényes a felhasználásra.
 A MySQL az egyik legelterjedtebb adatbázis-kezelő, aminek egyik oka lehet, 
 hogy a teljesen nyílt forráskódú LAMP (Linux–Apache–MySQL–PHP) összeállítás részeként költséghatékony 
 és egyszerűen beállítható megoldást ad dinamikus webhelyek szolgáltatására.
+
+Egyedi illesztőfelületekkel az adatbázis-kezelő elérhető 
+- C, 
+- C++ , 
+- C#, 
+- Delphi, 
+- Eiffel, 
+- Smalltalk, 
+- Java, 
+- Lisp, 
+- Perl, 
+- PHP, 
+- Python, 
+- Ruby 
+- és Tcl programozási nyelvvel. 
+Egy MyODBC nevű ODBC interfész további, ODBC-t kezelő nyelvek számára is hozzáférhetővé teszi 
+az adatbázis-kezelőt. A MySQL számára az ANSI C a natív nyelv.
