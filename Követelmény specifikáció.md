@@ -80,4 +80,7 @@ is nagyobb rész hárul ebben a pontban.
 8.Rendelkezésre állás
 
 A kész rendszert minden tekintetben mentesíteni kell a hibáktól. Ez kitartó
-tesztelést és esetleges javítások implementálását jelenti.
+tesztelést és esetleges javítások implementálását jelenti. Ugyanakkor az
+üzembehelyezett webáruház karbantartójától is igényel közreműködést,
+visszajelzéseket. A rendelkezésre állást nagyban befolyásolja az üzemeltető
+cég körültekintése is.
