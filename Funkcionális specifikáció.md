@@ -67,4 +67,5 @@ A felhasználó 1-től 10-ig értékelheti a megtekintett árut egy legördülő
 
 Csak akkor elérhető, ha a kosárba legalább egy áru bekerült. 
 A megrendelés gomb lenyomása után egy külön oldalon megjelnnek a rendelni kívánt áruk, 
-valamint a szállítási cím.
+valamint a szállítási cím.Egy véglegesítés gomb lenyomása után a rendelés részleteiről 
+értesítést kap az adminisztrátor és maga a felhasználót is emailben.
