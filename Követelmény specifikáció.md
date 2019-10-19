@@ -36,3 +36,8 @@ hogy a rendszer könnyen használható legyen bármilyen jellegű kereskedelmet 
 
 4. Könnyű navigáció, kezelhetőség:
 
+Ez a pont nagyban függ az üzembe helyező személyétől, 
+de az alapok átgondolt tervezésével ez a függés csökkenthető. 
+Fontos, hogy a felhasználó az általa fontosnak tartott funkciókat gyorsan elérhesse, 
+illetve a termékek között nagy részletességig tudjon keresni, hogy a kívánt terméket 
+minél hamarabb megtalálja.
