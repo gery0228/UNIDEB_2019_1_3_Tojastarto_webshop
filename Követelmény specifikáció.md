@@ -56,3 +56,5 @@ minél hamarabb megtalálja.
 
 Az adminisztrációval megbízott munkatárstól nem várható el az alapokat jelentősen
 meghaladó informatikai ismeretek birtoklása. Ennek szem előtt tartásával kell
+optimalizálni és implementálni ezen alrendszert, mely szintén kulcsfontosságú
+lehet az alkalmazás sikerességében, elterjedésében.
