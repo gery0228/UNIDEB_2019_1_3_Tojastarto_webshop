@@ -1,1 +1,3 @@
 **1. Az alkalmazással kapcsolatos követelmények:**
+
+Kereskedelmi szoftverről lévén szó, a legfontosabb elvárás a megbízhatóság, az adatok biztoságos tárolása, a bizalmasság, a letagadhatatlanság. A vásárlók adatainak és érdekeinek védelme éppoly létfontosságű, mint a felhasználó cég érdekeié. Ennek érdekében a szoftvert fel kell készíteni az ismert támadási formák ellen, a biztonság tovább fokozható a felhasználó oldalán tett megkötésekkel (például könnyű jelszavak tiltása), de ez nem mehet a többi aspektus rovására.
