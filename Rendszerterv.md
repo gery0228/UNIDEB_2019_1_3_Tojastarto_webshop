@@ -186,3 +186,8 @@ elküldi a regisztracio.php oldalnak, ami a bevitt adatokat az adatbázis "vevo"
 Ha valamelykötelezően kitöltendő mező üresen marad, akkor hibaüzenetet kapunk.
 Amennyiben olyan mezőt hagyunk üresen, amely kitöltése nem kötelező, akkor az üres 
 mezőként kerül be az adatbázisba.
+
+**3.3 Böngészés**
+
+A böngésző ablak bejelentkezés után érhető el. Megtalálható rajta az árlista, ami a
+"termek" tábla mezőiből épül fel dinamikusan, található egy űrlap két szövegmezővel,
