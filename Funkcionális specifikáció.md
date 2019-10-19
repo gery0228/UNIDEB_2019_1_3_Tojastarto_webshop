@@ -53,3 +53,8 @@ amely hozzáadja az árut a kiszemelt áruk listájához (kosár).
 **Kosár:**
 
 A kiszemelt áruk listája itt kerül tárolásra mely egy gomb lenyomásával bármikor megtekinthető.
+
+**Hozzászólás:**
+
+Bejelentkezés után a felhasználóknak lehetősége nyílik az áruk szöveges értékelésére egy külön e 
+célt szolgáló szövegdoboz segítségével.
