@@ -91,3 +91,10 @@ integrációhoz, MySQL Archive az elavult adatok kevés helyen történő tárol
 A MySQL legújabb verziója letölthető a https://dev.mysql.com/downloads/ címen.
 
 **1.2.3 PHP**
+
+__PHP__
+
+A PHP (PHP: Hypertext Preprocessor) nyílt forráskódú, számítógépes szkriptnyelv, 
+legfőbb felhasználási területe a dinamikus weboldalak készítése. Emiatt a PHP-t 
+jórészt szerver-oldalon használják, bár létezik parancssori interfésze is, illetve önálló, 
+grafikus felületű alkalmazások is létrehozhatóak vele. 
