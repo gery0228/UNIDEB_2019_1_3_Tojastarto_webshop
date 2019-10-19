@@ -113,3 +113,7 @@ grafikus felületű alkalmazások is létrehozhatóak vele. Egy php oldal elér�
 a kiszolgáló először feldolgozza a PHP utasításokat, és csak a kész (HTML) kimenetet 
 küldi el a böngészőnek, így a programkód nem is látható kliens oldalról. 
 Ehhez egy ún. interpretert (értelmezőt) használ, amely általában egy külső modulja a webszervernek.
+Ilyen például a bejelentkezés, az adatbáziskezelés, filekezelés, kódolás, adategyeztetés, 
+kapcsolatok létrehozása, e-mail küldése, adatfeldolgozás, dinamikus listakészítés stb. Minden olyan 
+esetben, ahol nagyszámú ismétlődő feladatsort kell végrehajtani (például képek listázása és linkelése, 
+listakészítés stb.), ott ez a programnyelv nagyszerű segítség.
