@@ -164,3 +164,11 @@ ellenőrzi, hogy az adatbázis vevő táblájában a megfelelő névhez.
 **3.2 Regisztráció**
 
 Ahhoz, hogy a szotvert használhassuk szükség van regisztrációra.
+
+A regisztrációs űrlapon az alábbi mezők találhatók:
+
+Felhasználónév (maximum 20 karakter) 
+
+Jelszó (maximum 20 karakter)
+
+Vezetéknév (maximum 20 karakter)
