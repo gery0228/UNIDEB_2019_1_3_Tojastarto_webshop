@@ -11,3 +11,7 @@ Az alkalmazás futtatásához olyan hardverre van szükség, amely képes a lent
 **1.2 Szoftveres követelmények**
 
 A továbbiakban részletesebben tárgyaljuk az alkalmazásunk futtatásához elengedhetetlen szoftvertveres komponenseket.
+
+**1.2.1 Webszerver**
+
+Mivel az alkalmazásunk elsősorban WEB-en keresztül érhető el, ezért elengedhetetlen egy Webserver futtatása. Esetünkben az Apache HTTP Server 2.2.3-as változatát használjuk
