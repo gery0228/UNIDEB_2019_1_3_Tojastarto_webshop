@@ -193,3 +193,5 @@ A böngésző ablak bejelentkezés után érhető el. Megtalálható rajta az á
 "termek" tábla mezőiből épül fel dinamikusan, található egy űrlap két szövegmezővel,
 az egyiken a termekmek cikkszámát, a másikon a kívánt mennyiséget adhatjuk meg.
 A "Kosárba" gomb lenyomására a rendszer ellenőrzi, , hogy a beírt mennyiseg nem nagyobb e
+a "termek" tábla "mennyiseg" mezőjében lévő számnál. ha nem nagyobb, akkor az adott
+cikkszámot, az éppen bejelentkezett felhasználó azonosítóját, valamint a kívánt
