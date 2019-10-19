@@ -68,3 +68,8 @@ tudja küldeni rendelését, még mielőtt megunná a kattintásokat és másik
 honlapot keresne. Ez a pont nagyfokú átgondoltságot igényel a tervezés során,
 elképzelhető hogy az alkalmazás más részeit is módosítani kell a fejlesztés 
 kései fázisaiban.
+
+7.Minél gyorsabb válaszidő
+
+Az adatbázis-szerver nem tartozik bele az alkalmazásba, de szoros kapcsolatban
+áll azzal. Tehát fontos a különböző adatbázis-rendszerek nagyfokú és rugalmas
