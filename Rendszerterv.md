@@ -27,3 +27,7 @@ Az Apache nem csak weboldalak, hanem egyéb tartalom publikálására is haszná
 Az Apache legújabb verziója hozzáférhető a http://httpd.apache.org/download.cgi oldalról.
 
 **1.2.2 Adatbázis**
+
+Szükségünk van egy adatbázis szerverre, mivel az alkalmazás javarészt adatbázisokkal dolgozik. 
+Minden információ megfelelő adatbázis táblákban érhető el. 
+A megvalósítás során a pHpMyAdmin adatbáziskezelőt használtuk.
