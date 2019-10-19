@@ -133,3 +133,14 @@ A PHP 5 legnagyobb újdonsága a 4-eshez képest a teljes körű objektumorient�
 változatot fejlesztik, legutóbbi kiadása a 5.2.6 verziószámú, amely 2008. május 1-jén jelent meg.
 A PHP, mint kiszolgáló-oldali programozási nyelv, dokumentációja (kézikönyve) magyarul is elérhető a php.net oldalon.
 Az általunk fejlesztett webshop a PHP7-es verzióját is támogatja.
+
+**2. Az adatbázis**
+
+Az adatbázisban 4 tábla található: 
+
+vevo ( felhnev char(20), jelszo char(20), vnev char(20), knev char(20), email char(20),
+telefon integer, cím char (255)) 
+
+termek (cikksz integer, termeknev char(255), ar integer, mennyiseg integer, leiras text)
+
+kosar (felhn char (20), cikk integer, db integer)
