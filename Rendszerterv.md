@@ -127,3 +127,5 @@ Népszerűbb verziók és megjelenési évük:
 - PHP 5.0:          2004    
 - PHP 5.1:          2005    
 - PHP 5.2:          2006
+
+A PHP 4 fejlesztése 2007 végén maradt abba, az utolsó megjelent verziója a 4.4.8 .
