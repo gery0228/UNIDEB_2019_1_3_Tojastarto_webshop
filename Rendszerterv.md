@@ -131,3 +131,4 @@ Népszerűbb verziók és megjelenési évük:
 A PHP 4 fejlesztése 2007 végén maradt abba, az utolsó megjelent verziója a 4.4.8 .
 A PHP 5 legnagyobb újdonsága a 4-eshez képest a teljes körű objektumorientáltság, jelenleg csak ezt a 
 változatot fejlesztik, legutóbbi kiadása a 5.2.6 verziószámú, amely 2008. május 1-jén jelent meg.
+A PHP, mint kiszolgáló-oldali programozási nyelv, dokumentációja (kézikönyve) magyarul is elérhető a php.net oldalon.
