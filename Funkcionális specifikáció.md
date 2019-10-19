@@ -58,3 +58,7 @@ A kiszemelt áruk listája itt kerül tárolásra mely egy gomb lenyomásával b
 
 Bejelentkezés után a felhasználóknak lehetősége nyílik az áruk szöveges értékelésére egy külön e 
 célt szolgáló szövegdoboz segítségével.
+
+**Értékelés:**
+
+A felhasználó 1-től 10-ig értékelheti a megtekintett árut egy legördülő menü segítségével.
