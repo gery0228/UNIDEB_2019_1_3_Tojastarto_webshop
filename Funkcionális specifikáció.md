@@ -60,6 +60,10 @@ A kosarat lehet szerkeszteni, például törölni az árukat.
 A termékeket hozzá lehet adni a kívánságlistához, majd onnan lehet törölni is
 azokat.
 
+**Gyors megtekintés:**
+
+Ezzel a funkcióval elérhetőek az eszközök, ruhák valamennyi információja.
+
 **Hozzászólás:**
 
 Bejelentkezés után a felhasználóknak lehetősége nyílik az áruk szöveges értékelésére egy külön e 
