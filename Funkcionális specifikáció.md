@@ -35,3 +35,5 @@ Az űrlap tervezett mezői:
 (A csillaggal megjelölt mezők kitöltését kötelezővé tennénk)
 
 A megadott adatok egy adatbázisban kerülnek tárolásra.
+
+**1.1.3 Bejelentkezés:**
