@@ -65,3 +65,6 @@ A webáruház megjelenése, struktúrája kiemelten fontos lehet egy átlagosná
 nagyobb forgalommal bíró cég esetén. Ilyenkor a sikeresség nagyban függ attól,
 hogy a mindig feltételezett türelmetlen vásárló is össze tudja állítani és el
 tudja küldeni rendelését, még mielőtt megunná a kattintásokat és másik
+honlapot keresne. Ez a pont nagyfokú átgondoltságot igényel a tervezés során,
+elképzelhető hogy az alkalmazás más részeit is módosítani kell a fejlesztés 
+kései fázisaiban.
