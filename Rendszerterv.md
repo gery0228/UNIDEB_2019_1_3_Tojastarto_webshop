@@ -14,4 +14,8 @@ A továbbiakban részletesebben tárgyaljuk az alkalmazásunk futtatásához ele
 
 **1.2.1 Webszerver**
 
-Mivel az alkalmazásunk elsősorban WEB-en keresztül érhető el, ezért elengedhetetlen egy Webserver futtatása. Esetünkben az Apache HTTP Server 2.2.3-as változatát használjuk
+Mivel az alkalmazásunk elsősorban WEB-en keresztül érhető el, ezért elengedhetetlen egy Webserver futtatása. Esetünkben az Apache HTTP Server 2.2.3-as változatát használjuk.
+
+**Apache**
+
+Az Apache HTTP Server (röviden Apache) egy nyílt forráskódú webkiszolgáló alkalmazás, szabad szoftver, mely sok szabványt támogat melyeknek nagy része fordított modulok formájában áll rendelkezésre a mag kiegészítéseként.
