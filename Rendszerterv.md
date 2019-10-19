@@ -25,3 +25,5 @@ Az Apache webszervert különböző kereskedelmi szoftvercsomagok (például az 
 Az Apache nem csak weboldalak, hanem egyéb tartalom publikálására is használható, például tetszőleges file-ok megosztására is.
 
 Az Apache legújabb verziója hozzáférhető a http://httpd.apache.org/download.cgi oldalról.
+
+**1.2.2 Adatbázis**
