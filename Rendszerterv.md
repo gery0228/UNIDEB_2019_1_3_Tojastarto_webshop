@@ -153,3 +153,8 @@ jelenlegi működéséhez nem szükséges.
 **3. Legfontosabb funkciók**
 
 Véleményünk szerint a webáruházunk működtetésének elengedhetetlen funkciói a következők:
+
+**3.1 Bejelentkezés**
+
+Legelső dolog, amit a szoftverünk használatával megpillantunk a bejelentkező képernyő.
+Tartalmaz két szövegmezőt, ahol az előzőleg regisztrált felhasználónév és jelszó segítségével
