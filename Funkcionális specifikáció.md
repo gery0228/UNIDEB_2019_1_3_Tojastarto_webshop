@@ -62,3 +62,9 @@ célt szolgáló szövegdoboz segítségével.
 **Értékelés:**
 
 A felhasználó 1-től 10-ig értékelheti a megtekintett árut egy legördülő menü segítségével.
+
+**Megrendelés:**
+
+Csak akkor elérhető, ha a kosárba legalább egy áru bekerült. 
+A megrendelés gomb lenyomása után egy külön oldalon megjelnnek a rendelni kívánt áruk, 
+valamint a szállítási cím.
