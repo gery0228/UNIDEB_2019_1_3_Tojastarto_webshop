@@ -133,3 +133,4 @@ törölheti a felhasználót az adatbázisból.
 
 A megrendelések között a rendelési szám segítségével lehet keresni. A
 találati oldalon megjelennek a megrendelés adatai, amelyet módosíthat,
+illetve egy törlés gomb segítségével törölheti a megrendelést.
