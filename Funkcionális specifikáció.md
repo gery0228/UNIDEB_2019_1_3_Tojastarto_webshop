@@ -115,3 +115,9 @@ Megjegyzés
 Egy korábban felvitt termék törlése az adatbázisból, amire egy korábban
 automatikusan generált cikkszám egy új oldalon megjelenő szövegdobozba
 történő begépelésével történik.
+
+Áru adatainak módosítása:
+
+Az áru hozzáadása űrlap jelenik meg, a már korábban kitöltött mezőkkel.
+A "módosítás" gomb lenyomására az új adatok felülírva a régit, elmentésre
+kerülnek.
