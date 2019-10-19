@@ -97,4 +97,7 @@ __PHP__
 A PHP (PHP: Hypertext Preprocessor) nyílt forráskódú, számítógépes szkriptnyelv, 
 legfőbb felhasználási területe a dinamikus weboldalak készítése. Emiatt a PHP-t 
 jórészt szerver-oldalon használják, bár létezik parancssori interfésze is, illetve önálló, 
-grafikus felületű alkalmazások is létrehozhatóak vele. 
+grafikus felületű alkalmazások is létrehozhatóak vele. Egy php oldal elérésekor, 
+a kiszolgáló először feldolgozza a PHP utasításokat, és csak a kész (HTML) kimenetet 
+küldi el a böngészőnek, így a programkód nem is látható kliens oldalról. 
+Ehhez egy ún. interpretert (értelmezőt) használ, amely általában egy külső modulja a webszervernek.
