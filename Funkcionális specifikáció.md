@@ -37,3 +37,10 @@ Az űrlap tervezett mezői:
 A megadott adatok egy adatbázisban kerülnek tárolásra.
 
 **1.1.3 Bejelentkezés:**
+
+A regisztráció során megadott felhasználó névvel és jelszóval lehetőség nyílik a bejelentkezésre, 
+amely ugyancsak a vásárlás valamint bizonyos funciók elérésének feltétele. 
+Erre egy külön bejelentkező oldalon van lehetőség, amely két szövegmezőt tartalmaz:
+
+Felhasználónév
+Jelszó
