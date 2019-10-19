@@ -94,3 +94,10 @@ valamint a szállítási cím.Egy véglegesítés gomb lenyomása után a rendel
 
 Az adminisztrátorok ugyanazon a bejelentkező képernyőn jelentkeznek be,
 mint a felhasználók.
+
+**1.2.2 Árukészlet menedzselés:**
+
+Áru hozzáadása:
+
+Egy ezt a célt szolgáló űrlapon az adminisztrátor megadhatja a felvinni
+kívánt áru adatait.
