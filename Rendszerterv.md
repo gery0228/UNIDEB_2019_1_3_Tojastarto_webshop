@@ -18,4 +18,4 @@ Mivel az alkalmazásunk elsősorban WEB-en keresztül érhető el, ezért elenge
 
 **Apache**
 
-Az Apache HTTP Server (röviden Apache) egy nyílt forráskódú webkiszolgáló alkalmazás, szabad szoftver, mely sok szabványt támogat melyeknek nagy része fordított modulok formájában áll rendelkezésre a mag kiegészítéseként.
+Az Apache HTTP Server (röviden Apache) egy nyílt forráskódú webkiszolgáló alkalmazás, szabad szoftver, mely sok szabványt támogat melyeknek nagy része fordított modulok formájában áll rendelkezésre a mag kiegészítéseként. Ezek a modulok sok területet lefednek a kiszolgálóoldali programnyelvtámogatástól kezdve a hitelesítési sémákig. Az ismertebb, támogatott programnyelv modulok a a mod_perl, a mod_python, a Tcl és a PHP. A népszerűbb hitelesítési modulok a mod_access, mod_auth és a mod_digest. 
