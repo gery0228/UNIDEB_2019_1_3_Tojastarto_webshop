@@ -63,3 +63,5 @@ lehet az alkalmazás sikerességében, elterjedésében.
 
 A webáruház megjelenése, struktúrája kiemelten fontos lehet egy átlagosnál 
 nagyobb forgalommal bíró cég esetén. Ilyenkor a sikeresség nagyban függ attól,
+hogy a mindig feltételezett türelmetlen vásárló is össze tudja állítani és el
+tudja küldeni rendelését, még mielőtt megunná a kattintásokat és másik
