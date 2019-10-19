@@ -16,3 +16,5 @@ A termék nevére való kattintással megjelenik a termék adatlapja, amelyen me
 A felhasználónak lehetősége van az áruk közötti keresésre, egy erre szolgáló állandóan elérhető keresési szövegmező használatával. Egy külön oldalon megjelik azon termékek listája amelyekben a megadott kulcsszó valamilyen formában előfordul.
 
 **1.1.2 Regisztráció:**
+
+A felhasználók vársárlási lehetőségének előfeltétele az előzetes regisztráció. Bizonyos egyéb funkciók is csak regisztráció után válnak elérhetővé. Erre egy külön oldalon megjelenő űrlapon van lehetőség. 
