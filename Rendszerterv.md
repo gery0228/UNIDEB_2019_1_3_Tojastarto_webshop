@@ -160,3 +160,7 @@ Legelső dolog, amit a szoftverünk használatával megpillantunk a bejelentkez�
 Tartalmaz két szövegmezőt, ahol az előzőleg regisztrált felhasználónév és jelszó segítségével
 bejelentkezhetünk. A bejelentkezés során a rendszer a bejelentkezes.php oldalon keresztül
 ellenőrzi, hogy az adatbázis vevő táblájában a megfelelő névhez.
+
+**3.2 Regisztráció**
+
+Ahhoz, hogy a szotvert használhassuk szükség van regisztrációra.
