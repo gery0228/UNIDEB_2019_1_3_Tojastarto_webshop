@@ -172,3 +172,11 @@ Felhasználónév (maximum 20 karakter)
 Jelszó (maximum 20 karakter)
 
 Vezetéknév (maximum 20 karakter)
+
+Keresztnév (maximum 15 karakter)
+
+E-mail (maximum 255 karakter) 
+
+Telefon (maximum 15 karakter)
+
+Cím (maximum 255 karakter)
