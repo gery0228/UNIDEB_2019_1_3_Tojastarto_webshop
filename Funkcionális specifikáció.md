@@ -125,4 +125,6 @@ kerülnek.
 **1.2.3 Felhasználók menedzselése:**
 
 A felhasználók azonosítására email címük szolgál, az adminisztrátor ez
-alapján kereshet a felhasználók között.
+alapján kereshet a felhasználók között. A találati oldalon megjelennek 
+a felhasználó adatai, amelyet módosíthat, illetve egy törlés gomb segítségével
+törölheti a felhasználót az adatbázisból.
