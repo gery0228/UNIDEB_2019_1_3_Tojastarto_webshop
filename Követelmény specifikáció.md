@@ -20,3 +20,7 @@ Valamint a felhasználó menedzsmentet, a regisztrációt, és az azonosító re
 Minden további funkció a kényelmességet biztosítja.
 
 2. A válaszidő minimális függése az adatok mennyiségétől:
+
+A webáruház terjedelmének, forgalmának növekedésével ezen kérdés jelentősége egyenes arányban növekszik. 
+Fontos tehát, hogy a rendszer rugalmasan kezeljen nagyobb adatmennyiséget is, 
+ne okozzon gondot nagy áruházak üzemeltetése sem.
