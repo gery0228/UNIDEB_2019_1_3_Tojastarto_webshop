@@ -117,3 +117,13 @@ Ilyen például a bejelentkezés, az adatbáziskezelés, filekezelés, kódolás
 kapcsolatok létrehozása, e-mail küldése, adatfeldolgozás, dinamikus listakészítés stb. Minden olyan 
 esetben, ahol nagyszámú ismétlődő feladatsort kell végrehajtani (például képek listázása és linkelése, 
 listakészítés stb.), ott ez a programnyelv nagyszerű segítség.
+
+Népszerűbb verziók és megjelenési évük:
+- PHP 4.0:          2000    
+- PHP 4.1:          2001    
+- PHP 4.2:          2002    
+- PHP 4.3:          2002    
+- PHP 4.4:          2005    
+- PHP 5.0:          2004    
+- PHP 5.1:          2005    
+- PHP 5.2:          2006
