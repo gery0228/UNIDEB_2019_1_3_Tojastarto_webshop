@@ -101,3 +101,11 @@ mint a felhasználók.
 
 Egy ezt a célt szolgáló űrlapon az adminisztrátor megadhatja a felvinni
 kívánt áru adatait.
+
+A tervezett mezői:
+
+Áru megnevezése
+Áru egységára
+Áru mennyisége
+Áru tulajdonságai
+Megjegyzés
