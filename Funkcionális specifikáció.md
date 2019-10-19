@@ -53,6 +53,7 @@ amely hozzáadja az árut a kiszemelt áruk listájához (kosár).
 **Kosár:**
 
 A kiszemelt áruk listája itt kerül tárolásra mely egy gomb lenyomásával bármikor megtekinthető.
+A kosarat lehet szerkeszteni, például törölni az árukat.
 
 **Hozzászólás:**
 
