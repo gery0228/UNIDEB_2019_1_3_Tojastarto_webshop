@@ -10,6 +10,10 @@ A szolgáltatás lehető legnagyobb rendelkezésre állása alapkövetelmény - 
 
 **2. Követelmények prioritása:**
 
-1. Biztonság, bizalmasság, letagadhatatlanság és az alapvető működési funkciók
+1. Biztonság, bizalmasság, letagadhatatlanság és az alapvető működési funkciók.
 A gyakorlatban ezt azt jelenti, hogy az adott információhoz csak az juthasson hozzá akinek ehhez joga van. 
 Illetve kiemelten fontos a fals rendelések kiszűrése, és egyéb visszaélési kísérletek megelőzése.
+A felhasználó azonosítása nélkül ne tehessen semmit ami a böngészésen túl mutat. 
+Alapvető funkciók alatt értjük a termékek megjelenítését, a böngészést, és a vásárlást. 
+Valamint a felhasználó menedzsmentet, a regisztrációt, és az azonosító rendszert (belépés). 
+Minden további funkció a kényelmességet biztosítja.
