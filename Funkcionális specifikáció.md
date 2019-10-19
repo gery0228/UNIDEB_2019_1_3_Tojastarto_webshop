@@ -44,3 +44,5 @@ Erre egy külön bejelentkező oldalon van lehetőség, amely két szövegmezőt
 
 Felhasználónév
 Jelszó
+
+**A bejelentkezés után elérhető funkciók:**
