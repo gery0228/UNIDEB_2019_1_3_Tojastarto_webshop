@@ -55,5 +55,10 @@ Egyedi illesztőfelületekkel az adatbázis-kezelő elérhető
 - Python, 
 - Ruby 
 - és Tcl programozási nyelvvel. 
+
 Egy MyODBC nevű ODBC interfész további, ODBC-t kezelő nyelvek számára is hozzáférhetővé teszi 
 az adatbázis-kezelőt. A MySQL számára az ANSI C a natív nyelv.
+
+Széles körben elterjedt és népszerű adminisztrációs eszköz a PHP nyelven írt, nyitott 
+forráskódú phpMyAdmin. A phpMyBackupPro (amelyet szintén PHP-ban írtak) adatbázisok 
+(akár időzített, ismétlődő) mentésére szolgál eszközül.
