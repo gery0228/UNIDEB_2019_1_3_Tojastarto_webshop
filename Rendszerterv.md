@@ -149,3 +149,7 @@ rendeles ( felhn char (20), cikk integer, db integer)
 
 Az adatbázis táblák között ergyelőre nem valósul meg kapcsolat, mivel a webalkalmazásunk
 jelenlegi működéséhez nem szükséges.
+
+**3. Legfontosabb funkciók**
+
+Véleményünk szerint a webáruházunk működtetésének elengedhetetlen funkciói a következők:
