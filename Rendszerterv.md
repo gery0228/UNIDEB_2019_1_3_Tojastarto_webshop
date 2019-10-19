@@ -207,3 +207,5 @@ A kosar.php lap tartalma a "kosar" adattábla adataiból épül fel. Itt találh
 
 A kosar.php oldalon találhatő "Megrendelem" gomb lenyomásának hatására a kosár adatai
 post metúdussal átadódnak a rendeles.php oldalnak, amely feltölti a "rendeles" táblát
+az adatbázisban, a felhasználó felhasználónevével és a rendelni kívánt termékek
+cikkszámával. Ezzel egyidőben a "kosar" táblából egyanezen adatok törlésre kerülnek.
