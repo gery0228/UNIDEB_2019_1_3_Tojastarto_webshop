@@ -51,3 +51,8 @@ de az alapok átgondolt tervezésével ez a függés csökkenthető.
 Fontos, hogy a felhasználó az általa fontosnak tartott funkciókat gyorsan elérhesse, 
 illetve a termékek között nagy részletességig tudjon keresni, hogy a kívánt terméket 
 minél hamarabb megtalálja.
+
+5. A lehető legegyszerűbben ellátható adminisztrátori teendők
+
+Az adminisztrációval megbízott munkatárstól nem várható el az alapokat jelentősen
+meghaladó informatikai ismeretek birtoklása. Ennek szem előtt tartásával kell
