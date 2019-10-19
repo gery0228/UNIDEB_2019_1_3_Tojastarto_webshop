@@ -55,6 +55,11 @@ amely hozzáadja az árut a kiszemelt áruk listájához (kosár).
 A kiszemelt áruk listája itt kerül tárolásra mely egy gomb lenyomásával bármikor megtekinthető.
 A kosarat lehet szerkeszteni, például törölni az árukat.
 
+**Kivánságlistához adás:**
+
+A termékeket hozzá lehet adni a kívánságlistához, majd onnan lehet törölni is
+azokat.
+
 **Hozzászólás:**
 
 Bejelentkezés után a felhasználóknak lehetősége nyílik az áruk szöveges értékelésére egy külön e 
