@@ -144,3 +144,8 @@ telefon integer, cím char (255))
 termek (cikksz integer, termeknev char(255), ar integer, mennyiseg integer, leiras text)
 
 kosar (felhn char (20), cikk integer, db integer)
+
+rendeles ( felhn char (20), cikk integer, db integer)
+
+Az adatbázis táblák között ergyelőre nem valósul meg kapcsolat, mivel a webalkalmazásunk
+jelenlegi működéséhez nem szükséges.
