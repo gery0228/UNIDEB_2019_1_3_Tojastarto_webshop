@@ -32,5 +32,7 @@ Kulcskérdés lehet egy webáruház sikerességében annak külleme,
 felülete, melynek megfelelő egyensúlyt kell teremtenie a dizájn és a funkcionalitás között, 
 ez részben függ a rendszert üzembe helyező cégtől is. Az alapokat azonban jól kell megtervezni, 
 és a webshop üzemeltetőjének utólagos munkáját is célszerű leegyszerűsíteni.Gondoskodni kell arról is, 
-hogy a rendszer könnyen használható legyen bármilyen jellegű kereskedelmet folytató cégek esetében is. 
+hogy a rendszer könnyen használható legyen bármilyen jellegű kereskedelmet folytató cégek esetében is.
+
+4. Könnyű navigáció, kezelhetőség:
 
