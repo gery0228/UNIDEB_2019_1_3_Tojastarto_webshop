@@ -42,8 +42,8 @@ A regisztráció során megadott felhasználó névvel és jelszóval lehetősé
 amely ugyancsak a vásárlás valamint bizonyos funciók elérésének feltétele. 
 Erre egy külön bejelentkező oldalon van lehetőség, amely két szövegmezőt tartalmaz:
 
--Felhasználónév
--Jelszó
+- Felhasználónév
+- Jelszó
 
 **A bejelentkezés után elérhető funkciók:**
 
