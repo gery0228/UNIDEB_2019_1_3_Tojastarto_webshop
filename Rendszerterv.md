@@ -9,3 +9,5 @@ Ezen dokumentum célja, hogy ismertesse az alaklmazásunk futtatáshoz szükség
 Az alkalmazás futtatásához olyan hardverre van szükség, amely képes a lentebb tárgyalt szoftverek futtatására, alkalmas nagy mennyiségű kérés kiszolgálására, valamint kellően nagy tárhelyen rendelkezik az adatok tárolásához. Jelen állapotban a szoftverünk futtatásához elegendőnek látjuk az 1Ghz-es órajelű processzorral, 512 MB memóriával illetve 40 Gb tárhellyel rendelkező számítógépet. További információkért forduljon az alább bemutatandó szoftverek gyártóihoz!
 
 **1.2 Szoftveres követelmények**
+
+A továbbiakban részletesebben tárgyaljuk az alkalmazásunk futtatásához elengedhetetlen szoftvertveres komponenseket.
