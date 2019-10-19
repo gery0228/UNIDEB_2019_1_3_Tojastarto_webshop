@@ -23,4 +23,5 @@ Minden további funkció a kényelmességet biztosítja.
 
 A webáruház terjedelmének, forgalmának növekedésével ezen kérdés jelentősége egyenes arányban növekszik. 
 Fontos tehát, hogy a rendszer rugalmasan kezeljen nagyobb adatmennyiséget is, 
-ne okozzon gondot nagy áruházak üzemeltetése sem.
+ne okozzon gondot nagy áruházak üzemeltetése sem. Jól megtervezett és implementált adatbázis szükséges, 
+és ennek integrálása a rendszerbe is kulcskérdés.
