@@ -23,3 +23,5 @@ Az Apache HTTP Server (röviden Apache) egy nyílt forráskódú webkiszolgáló
 Az Apache webszervert különböző kereskedelmi szoftvercsomagok (például az Oracle Database és az IBM WebSphere) részeként is terjesztik. A Mac OS X is magába foglalja az Apache-ot beépített webszerverként. A Novell NetWare 6.5 alapértelmezett webszervere is az Apache.
 
 Az Apache nem csak weboldalak, hanem egyéb tartalom publikálására is használható, például tetszőleges file-ok megosztására is.
+
+Az Apache legújabb verziója hozzáférhető a http://httpd.apache.org/download.cgi oldalról.
