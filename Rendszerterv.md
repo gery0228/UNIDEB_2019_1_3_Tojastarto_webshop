@@ -202,3 +202,8 @@ tartozó rekorjának "mennyiseg" mezőjét az adott számmal csökkenti.
 
 A kosar.php lap tartalma a "kosar" adattábla adataiból épül fel. Itt található még egy 
 "Megrendelem" gomb, amely segítségével véglegesíthetjük a megrendelésünket.
+
+**3.5 Rendelés leadása**
+
+A kosar.php oldalon találhatő "Megrendelem" gomb lenyomásának hatására a kosár adatai
+post metúdussal átadódnak a rendeles.php oldalnak, amely feltölti a "rendeles" táblát
