@@ -49,3 +49,7 @@ Jelszó
 
 A bejelentkezést követően az áruk adatlapjainál a felhasználó számára megjelenik a "Kosárba" gomb, 
 amely hozzáadja az árut a kiszemelt áruk listájához (kosár).
+
+**Kosár:**
+
+A kiszemelt áruk listája itt kerül tárolásra mely egy gomb lenyomásával bármikor megtekinthető.
