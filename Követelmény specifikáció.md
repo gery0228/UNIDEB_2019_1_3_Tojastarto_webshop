@@ -73,3 +73,6 @@ kései fázisaiban.
 
 Az adatbázis-szerver nem tartozik bele az alkalmazásba, de szoros kapcsolatban
 áll azzal. Tehát fontos a különböző adatbázis-rendszerek nagyfokú és rugalmas
+támogatása, hogy a válaszidő csak a felhasználó és az adatbázis kapcsolatának
+sebességétől függjön. Ugyanakkor a webáruház üzemeltetőjére, karbantartójára
+is nagyobb rész hárul ebben a pontban.
