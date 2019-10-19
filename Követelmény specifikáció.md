@@ -76,3 +76,8 @@ Az adatbázis-szerver nem tartozik bele az alkalmazásba, de szoros kapcsolatban
 támogatása, hogy a válaszidő csak a felhasználó és az adatbázis kapcsolatának
 sebességétől függjön. Ugyanakkor a webáruház üzemeltetőjére, karbantartójára
 is nagyobb rész hárul ebben a pontban.
+
+8.Rendelkezésre állás
+
+A kész rendszert minden tekintetben mentesíteni kell a hibáktól. Ez kitartó
+tesztelést és esetleges javítások implementálását jelenti.
