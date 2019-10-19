@@ -128,3 +128,8 @@ A felhasználók azonosítására email címük szolgál, az adminisztrátor ez
 alapján kereshet a felhasználók között. A találati oldalon megjelennek 
 a felhasználó adatai, amelyet módosíthat, illetve egy törlés gomb segítségével
 törölheti a felhasználót az adatbázisból.
+
+**1.2.4 Megrendelések menedzselése:**
+
+A megrendelések között a rendelési szám segítségével lehet keresni. A
+találati oldalon megjelennek a megrendelés adatai, amelyet módosíthat,
