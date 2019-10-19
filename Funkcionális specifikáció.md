@@ -14,3 +14,5 @@ A felhasználónak lehetősége van egy mindig látható menü segítségével a
 A termék nevére való kattintással megjelenik a termék adatlapja, amelyen megtalálhatóak a termék tulajdonságai, képe (ha elérhető). A termék leírása alatt elérhetővé válik az adott kategórián belüli legtöbbször megtekintett, a legtöbbször megvásárolt, illetve a legolcsóbb termékek linkje.
 
 A felhasználónak lehetősége van az áruk közötti keresésre, egy erre szolgáló állandóan elérhető keresési szövegmező használatával. Egy külön oldalon megjelik azon termékek listája amelyekben a megadott kulcsszó valamilyen formában előfordul.
+
+**1.1.2 Regisztráció:**
