@@ -121,3 +121,8 @@ történő begépelésével történik.
 Az áru hozzáadása űrlap jelenik meg, a már korábban kitöltött mezőkkel.
 A "módosítás" gomb lenyomására az új adatok felülírva a régit, elmentésre
 kerülnek.
+
+**1.2.3 Felhasználók menedzselése:**
+
+A felhasználók azonosítására email címük szolgál, az adminisztrátor ez
+alapján kereshet a felhasználók között.
