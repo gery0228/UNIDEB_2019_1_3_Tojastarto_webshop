@@ -10,3 +10,4 @@ A szolgáltatás lehető legnagyobb rendelkezésre állása alapkövetelmény - 
 
 **2. Követelmények prioritása:**
 
+- 1. Biztonság, bizalmasság, letagadhatatlanság és az alapvető működési funkciók
