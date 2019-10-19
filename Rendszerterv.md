@@ -87,3 +87,5 @@ integrációhoz, MySQL Archive az elavult adatok kevés helyen történő tárol
 - ACID megfelelés az InnoDB-vel, BDB-vel és Cluster-rel
 - Továbbfejlesztett MySQL Cluster
 - „Példányosítás”
+
+A MySQL legújabb verziója letölthető a https://dev.mysql.com/downloads/ címen.
