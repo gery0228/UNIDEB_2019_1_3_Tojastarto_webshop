@@ -28,3 +28,8 @@ ne okozzon gondot nagy áruházak üzemeltetése sem. Jól megtervezett és impl
 
 3. Felhasználói felület áttekinthetősége:
 
+Kulcskérdés lehet egy webáruház sikerességében annak külleme, 
+felülete, melynek megfelelő egyensúlyt kell teremtenie a dizájn és a funkcionalitás között, 
+ez részben függ a rendszert üzembe helyező cégtől is. Az alapokat azonban jól kell megtervezni, 
+és a webshop üzemeltetőjének utólagos munkáját is célszerű leegyszerűsíteni.
+
