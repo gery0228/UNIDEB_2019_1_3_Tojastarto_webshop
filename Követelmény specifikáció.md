@@ -7,3 +7,6 @@ Kiemelt fontosságú a szoftver felületének kezelhetősége, áttekinthetősé
 Fontos a rendszer jó teljesítménye, jó válaszideje, mely lehetővé teszi a gyors ügyintézést, és használhatóvá teszi az alkalmazást nagyobb árumennyiség esetén is.
 
 A szolgáltatás lehető legnagyobb rendelkezésre állása alapkövetelmény - bár ezt nagyban befolyásolja az alkalmazott adatbázis-szerver, az azzal létesített kapcsolat és annak karbantartása.
+
+**2. Követelmények prioritása:**
+
