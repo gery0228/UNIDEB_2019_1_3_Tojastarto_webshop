@@ -109,3 +109,9 @@ A tervezett mezői:
 Áru mennyisége
 Áru tulajdonságai
 Megjegyzés
+
+Áru törlése:
+
+Egy korábban felvitt termék törlése az adatbázisból, amire egy korábban
+automatikusan generált cikkszám egy új oldalon megjelenő szövegdobozba
+történő begépelésével történik.
