@@ -183,3 +183,6 @@ Cím (maximum 255 karakter)
 
 Ezen az oldalon található a Regisztráció gomb, amelynek megnyomására az űrlap adatait
 elküldi a regisztracio.php oldalnak, ami a bevitt adatokat az adatbázis "vevo" táblájába.
+Ha valamelykötelezően kitöltendő mező üresen marad, akkor hibaüzenetet kapunk.
+Amennyiben olyan mezőt hagyunk üresen, amely kitöltése nem kötelező, akkor az üres 
+mezőként kerül be az adatbázisba.
