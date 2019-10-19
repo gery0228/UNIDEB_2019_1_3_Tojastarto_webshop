@@ -180,3 +180,6 @@ E-mail (maximum 255 karakter)
 Telefon (maximum 15 karakter)
 
 Cím (maximum 255 karakter)
+
+Ezen az oldalon található a Regisztráció gomb, amelynek megnyomására az űrlap adatait
+elküldi a regisztracio.php oldalnak, ami a bevitt adatokat az adatbázis "vevo" táblájába.
