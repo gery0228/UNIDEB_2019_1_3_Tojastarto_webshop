@@ -31,3 +31,9 @@ Az Apache legújabb verziója hozzáférhető a http://httpd.apache.org/download
 Szükségünk van egy adatbázis szerverre, mivel az alkalmazás javarészt adatbázisokkal dolgozik. 
 Minden információ megfelelő adatbázis táblákban érhető el. 
 A megvalósítás során a pHpMyAdmin adatbáziskezelőt használtuk.
+
+A MySQL egy többfelhasználós, többszálú, SQL-alapú relációs adatbázis-kezelő szerver.
+A szoftver eredeti fejlesztője a svéd MySQL AB cég, 
+amely kettős licenceléssel tette elérhetővé a MySQL-t; 
+választható módon vagy a GPL szabad szoftver licenc, vagy egy zárt (tulajdonosi) 
+licenc érvényes a felhasználásra.
