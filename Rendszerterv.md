@@ -37,3 +37,6 @@ A szoftver eredeti fejlesztője a svéd MySQL AB cég,
 amely kettős licenceléssel tette elérhetővé a MySQL-t; 
 választható módon vagy a GPL szabad szoftver licenc, vagy egy zárt (tulajdonosi) 
 licenc érvényes a felhasználásra.
+A MySQL az egyik legelterjedtebb adatbázis-kezelő, aminek egyik oka lehet, 
+hogy a teljesen nyílt forráskódú LAMP (Linux–Apache–MySQL–PHP) összeállítás részeként költséghatékony 
+és egyszerűen beállítható megoldást ad dinamikus webhelyek szolgáltatására.
