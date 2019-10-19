@@ -62,3 +62,28 @@ az adatbázis-kezelőt. A MySQL számára az ANSI C a natív nyelv.
 Széles körben elterjedt és népszerű adminisztrációs eszköz a PHP nyelven írt, nyitott 
 forráskódú phpMyAdmin. A phpMyBackupPro (amelyet szintén PHP-ban írtak) adatbázisok 
 (akár időzített, ismétlődő) mentésére szolgál eszközül.
+
+A MySQL 5.x képességei:
+
+- ANSI SQL 99, számos kiegészítéssel
+- Keresztplatformos elérhetőség
+- Tárolt eljárások
+- Adatbázis triggerek
+- Kurzor adatbázisok
+- "View" adatbázisok
+- VARCHAR támogatás
+- INFORMATION_SCHEMA támogatás
+- "Strict" (szigorú) mód
+- X/Open XA elosztott tranzakció-feldolgozás (DTP) támogatása; az Innobase InnoDB motorjának használata
+- Különálló tároló motorok,(MyISAM olvasási sebességért, InnoDB a tranzakciókhoz és a referenciális 
+integrációhoz, MySQL Archive az elavult adatok kevés helyen történő tárolására
+- Tranzakciók az InnoDB, BDB és Cluster tároló motorokkal
+- SSL támogatás
+- Lekérdezés gyorstár (cache)
+- Egymásba ágyazott SELECT -ek
+- Szöveges indexelés és keresés a MyISAM motorral
+- Beágyazott adatbázis-könyvtár
+- Részleges Unicode támogatás
+- ACID megfelelés az InnoDB-vel, BDB-vel és Cluster-rel
+- Továbbfejlesztett MySQL Cluster
+- „Példányosítás”
