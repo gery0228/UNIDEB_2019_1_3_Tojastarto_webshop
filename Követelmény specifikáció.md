@@ -58,3 +58,8 @@ Az adminisztrációval megbízott munkatárstól nem várható el az alapokat je
 meghaladó informatikai ismeretek birtoklása. Ennek szem előtt tartásával kell
 optimalizálni és implementálni ezen alrendszert, mely szintén kulcsfontosságú
 lehet az alkalmazás sikerességében, elterjedésében.
+
+6. Az áruk mennyiségétől a lehető legkevésbé függő átlagos kattintások száma, mélyen struktúrálhatóság
+
+A webáruház megjelenése, struktúrája kiemelten fontos lehet egy átlagosnál 
+nagyobb forgalommal bíró cég esetén. Ilyenkor a sikeresség nagyban függ attól,
