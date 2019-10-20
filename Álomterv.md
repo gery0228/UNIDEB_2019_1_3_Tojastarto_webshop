@@ -23,3 +23,7 @@ részletesebb leírással szolgálunk az árucikkekről, annál gyorsabb és mag
 amely a mai online világban kulcsfontosságú. Mindemellett az áruk adatainak átlátható és ízléses megjelenítésére 
 is nagy hangsúlyt fektetünk, elnyerve ezzel az igényesebb vásárlói réteg bizalmát.
 
+Az alkalmazásban a rendelések a lehető legkönnyebben és leggyorsabban megtehetőek lesznek. 
+A webes felületen a magánszemély vagy cég beazonosítása után a termék gyorsan kiválasztható és 
+néhány kattintással megrendelhető lesz. A rendelések egy adatbázisban tárolódnak, onnan bármikor 
+visszaolvashatók vagy törölhetők, ha a vásárló visszavonja a megrendelését.
