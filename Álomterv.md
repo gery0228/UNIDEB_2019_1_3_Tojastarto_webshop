@@ -49,4 +49,15 @@ oldal működését, alternatívákat szolgáltat, tanácsokat ad az esetleges h
 címünkre érkezett esetleges kérdésekre is örömmel válaszol csapatunk.
 
 **3. Összehasonlítás**
+
+**3.1 Hasonló alkalmazások:**
+
+- www.ipon.hu
+- www.digitall.hu
+- www.depo.hu
+- www.netpiac.hu
+- www.express.hu
+- www.filmsarok.hu
+
+
  
