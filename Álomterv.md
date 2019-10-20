@@ -27,3 +27,7 @@ Az alkalmazásban a rendelések a lehető legkönnyebben és leggyorsabban megte
 A webes felületen a magánszemély vagy cég beazonosítása után a termék gyorsan kiválasztható és 
 néhány kattintással megrendelhető lesz. A rendelések egy adatbázisban tárolódnak, onnan bármikor 
 visszaolvashatók vagy törölhetők, ha a vásárló visszavonja a megrendelését.
+
+Egy adatbázis tárolja az ügyfélkör adatait és egy másik a megrendeléseket. Mindkettőnek sérthetetlennek 
+kell lennie, arra jogosulatlanok számárá hozzáférhetetlennek. Egy harmadik adatbázis az áruk adatait rögzíti, 
+ennek naprakészségéről is gondoskodnunk kell, nehogy nem teljesíthető megrendeléseket is felvegyünk.
