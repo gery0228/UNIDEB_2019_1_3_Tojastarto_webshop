@@ -33,3 +33,9 @@ kell lennie, arra jogosulatlanok számárá hozzáférhetetlennek. Egy harmadik 
 ennek naprakészségéről is gondoskodnunk kell, nehogy nem teljesíthető megrendeléseket is felvegyünk.
 
 **2.2 Alkalmazás célcsoportja**
+
+ A célcsoport kétrétű, elsősorban a modern gondolkodású vásárlói réteg kényelmes kiszolgálása az elsődleges 
+ célja.
+
+Közvetve bármely online kereskedelmet folytatni kívánó vállalat vagy magánszemély profitálhat belőle, különleges 
+esetekben akár a hagyományos üzlethelyiséget is helyettesítheti, nagyban csökkentve ezzel az üzelemtetési költségeket.
