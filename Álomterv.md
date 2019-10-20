@@ -12,3 +12,14 @@ Ezen megfontolások ösztönöztek minket, hogy egy webáruház megtervezését 
 **2. Az alkalmazás célja és célcsoportja**
 
 **2.1 Az alkalmazás célja**
+
+Az alkalmazás célja egy, vagy akár több személy vagy cég online kereskedelmének lebonyolítása.
+
+
+A program nyilvántartja az árukészletet, vagyis az áru pontos nevét, a jelen pillanatban rendelkezésre 
+álló mennyiséget az adott termékből és annak rövid leírását. A leírás célja hogy megkönnyítse a vásárlónak 
+a termék beazonosítását, illetve segítse a vásárló döntését a hasonló termékek között. Minnél pontosabb és 
+részletesebb leírással szolgálunk az árucikkekről, annál gyorsabb és magabiztosabb vásárlói döntés hozható, 
+amely a mai online világban kulcsfontosságú. Mindemellett az áruk adatainak átlátható és ízléses megjelenítésére 
+is nagy hangsúlyt fektetünk, elnyerve ezzel az igényesebb vásárlói réteg bizalmát.
+
