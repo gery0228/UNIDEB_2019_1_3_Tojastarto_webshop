@@ -64,4 +64,6 @@ címünkre érkezett esetleges kérdésekre is örömmel válaszol csapatunk.
 A mi alkalmazásunk elsősorban a könnyű kezelhetőségével, átlátható rendszerezésével, remek adminisztratív
 funkcióival és kiváló konfigurálhatóságával fog eltérni ezektől, valamint néhány innovatív lehetőség biztosításával 
 a vásárlók irányába, a vásárlási hatékonyság maximalizására.
- 
+
+A vásárlók által elvégzendő műveleteket minimalizáltuk, a várakozási időt csökkentettük a többi alkalmazáshoz képest, 
+szem előtt tartva az ügyfelek érdekeit. 
