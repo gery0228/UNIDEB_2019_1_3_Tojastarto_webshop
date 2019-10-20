@@ -10,3 +10,5 @@ tucatnyi lehetőség közül választhatunk.
 Ezen megfontolások ösztönöztek minket, hogy egy webáruház megtervezését és megvalósítását tűzzük ki célul magunk elé.
 
 **2. Az alkalmazás célja és célcsoportja**
+
+**2.1 Az alkalmazás célja**
