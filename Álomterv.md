@@ -43,4 +43,9 @@ esetekben akár a hagyományos üzlethelyiséget is helyettesítheti, nagyban cs
 Mivel az alkalmazás kezelése roppant egyszerű, nem igényel különleges számítástechnikai ismereteket, így már 
 bárki számára elérhető és használható a webáruház. Ha netalántán olyan ügyfél szeretné igénybe venni az oldal 
 szolgáltatásait, aki még sosem használt ehhez hasonló alkalmazást, annak számára is az áruház kezelése gyorsan 
-elsajátítható annak egyértelműsége és logikus felépítése révén.
+elsajátítható annak egyértelműsége és logikus felépítése révén. A speciális igényű vásárlók pedig az összes 
+felmerülő kérdésre választ kaphatnak a Felhasználói Kézikönyvből. Ez a leírás lépésről lépésre ismerteti az 
+oldal működését, alternatívákat szolgáltat, tanácsokat ad az esetleges hibák és kivételek kezelésére. Az e-mail 
+címünkre érkezett esetleges kérdésekre is örömmel válaszol csapatunk.
+
+ 
