@@ -60,4 +60,8 @@ címünkre érkezett esetleges kérdésekre is örömmel válaszol csapatunk.
 - www.filmsarok.hu
 
 **3.2 Alkalmazásunk egyedisége**
+
+A mi alkalmazásunk elsősorban a könnyű kezelhetőségével, átlátható rendszerezésével, remek adminisztratív
+funkcióival és kiváló konfigurálhatóságával fog eltérni ezektől, valamint néhány innovatív lehetőség biztosításával 
+a vásárlók irányába, a vásárlási hatékonyság maximalizására.
  
