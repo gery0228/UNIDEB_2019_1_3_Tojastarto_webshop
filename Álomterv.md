@@ -31,3 +31,5 @@ visszaolvashatók vagy törölhetők, ha a vásárló visszavonja a megrendelés
 Egy adatbázis tárolja az ügyfélkör adatait és egy másik a megrendeléseket. Mindkettőnek sérthetetlennek 
 kell lennie, arra jogosulatlanok számárá hozzáférhetetlennek. Egy harmadik adatbázis az áruk adatait rögzíti, 
 ennek naprakészségéről is gondoskodnunk kell, nehogy nem teljesíthető megrendeléseket is felvegyünk.
+
+**2.2 Alkalmazás célcsoportja**
