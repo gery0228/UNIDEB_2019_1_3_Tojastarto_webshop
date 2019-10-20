@@ -39,3 +39,8 @@ ennek naprakészségéről is gondoskodnunk kell, nehogy nem teljesíthető megr
 
 Közvetve bármely online kereskedelmet folytatni kívánó vállalat vagy magánszemély profitálhat belőle, különleges 
 esetekben akár a hagyományos üzlethelyiséget is helyettesítheti, nagyban csökkentve ezzel az üzelemtetési költségeket.
+
+Mivel az alkalmazás kezelése roppant egyszerű, nem igényel különleges számítástechnikai ismereteket, így már 
+bárki számára elérhető és használható a webáruház. Ha netalántán olyan ügyfél szeretné igénybe venni az oldal 
+szolgáltatásait, aki még sosem használt ehhez hasonló alkalmazást, annak számára is az áruház kezelése gyorsan 
+elsajátítható annak egyértelműsége és logikus felépítése révén.
