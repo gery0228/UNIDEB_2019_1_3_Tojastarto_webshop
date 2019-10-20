@@ -48,4 +48,5 @@ felmerülő kérdésre választ kaphatnak a Felhasználói Kézikönyvből. Ez a
 oldal működését, alternatívákat szolgáltat, tanácsokat ad az esetleges hibák és kivételek kezelésére. Az e-mail 
 címünkre érkezett esetleges kérdésekre is örömmel válaszol csapatunk.
 
+**3. Összehasonlítás**
  
