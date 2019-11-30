@@ -200,3 +200,50 @@
 			<!-- /container -->
 		</div>
 		<!-- /SECTION -->
+		
+		
+		!-- HOT DEAL SECTION -->
+		<div id="hot-deal" class="section mainn mainn-raised">
+			<!-- container -->
+			<div class="container">
+				<!-- row -->
+				<div class="row">
+					<div class="col-md-12">
+						<div class="hot-deal">
+							<ul class="hot-deal-countdown">
+								<li>
+									<div>
+										<h3>02</h3>
+										<span>Nap</span>
+									</div>
+								</li>
+								<li>
+									<div>
+										<h3>10</h3>
+										<span>Óra</span>
+									</div>
+								</li>
+								<li>
+									<div>
+										<h3>34</h3>
+										<span>Perc</span>
+									</div>
+								</li>
+								<li>
+									<div>
+										<h3>60</h3>
+										<span>Másodperc</span>
+									</div>
+								</li>
+							</ul>
+							<h2 class="text-uppercase">Remek ajánlatok ezen a héten</h2>
+							<p>Új kollekcióra 50% kedvezmény</p>
+							<a class="primary-btn cta-btn" href="store.php">Vásárolj most</a>
+						</div>
+					</div>
+				</div>
+				<!-- /row -->
+			</div>
+			<!-- /container -->
+		</div>
+		<!-- /HOT DEAL SECTION -->
