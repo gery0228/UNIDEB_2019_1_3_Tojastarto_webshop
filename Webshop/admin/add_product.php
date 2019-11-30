@@ -42,3 +42,20 @@ mysqli_close($con);
 <link href="style/css/bootstrap.min.css" rel="stylesheet">
 <link href="style/css/k.css" rel="stylesheet">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+</head>
+<body>
+ 
+   	 <?php include("include/header.php");?>
+   	<div class="container-fluid">
+	<?php include("include/side_bar.php");?>
+    <div class="col-md-9 content" style="margin-left:10px">
+  	<div class="panel panel-default">
+	<div class="panel-heading" style="background-color:#c4e17f">
+	<h1><span class="glyphicon glyphicon-tag"></span> Termék hozzáadás  </h1></div><br>
+	<div class="panel-body" style="background-color:#E6EEEE;">
+		<div class="col-lg-7">
+        <div class="well">
+        <form action="add_product.php" method="post" name="form" enctype="multipart/form-data">
+        <p>Termék neve</p>
+        <input class="input-lg thumbnail form-control" type="text" name="product_name" id="product_name" autofocus style="width:100%" placeholder="Product Name" required>
+<p>Leírás/p>
