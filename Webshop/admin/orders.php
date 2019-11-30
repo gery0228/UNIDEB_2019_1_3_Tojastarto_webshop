@@ -22,3 +22,41 @@ else
 $page1=($page*10)-10;	
 }
 ?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Adminisztrációs felület</title>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="style/css/bootstrap.min.css" rel="stylesheet">
+<link href="style/css/k.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+</head>
+<body>
+  <?php include("include/header.php");?>
+   	<div class="container-fluid main-container">
+	<?php include("include/side_bar.php");?>
+    <div class="col-md-9 content" style="margin-left:10px">
+    <div class="panel-heading" style="background-color:#c4e17f">
+	<h1>Rendelések <?php echo $page;?> </h1></div><br>
+<div class='table-responsive'>  
+<div style="overflow-x:scroll;">
+<table class="table  table-hover table-striped" style="font-size:18px">
+<tr><th>Vásárló neve</th><th>Termék</th><th>Elérhetőség | Email</th><th>Cím</th><th>Részletek</th><th>Kiszállítás</th><th>Idő/th></tr>
+<?php 
+$result=mysqli_query($con,"select order_id, product_title, first_name, mobile, email, address1, address2, product_price,address2, qty from orders,products,user_info where orders.product_id=products.product_id and user_info.user_id=orders.user_id Limit $page1,10")or die ("query 1 incorrect.....");
+
+while(list($order_id,$p_names,$cus_name,$contact_no,$email,$address,$country,$details,$zip_code,$time,$quantity)=mysqli_fetch_array($result))
+{	
+echo "<tr><td>$cus_name</td><td>$p_names</td><td>$email<br>$contact_no</td><td>$address<br>ZIP: $zip_code<br>$country</td><td>$details</td><td>$quantity</td><td>$time</td>
+
+<td>
+<a class=' btn btn-success' href='orders.php?order_id=$order_id&action=delete'>Delete</a>
+</td></tr>";
+}
+?>
+</table>
+</div></div>
+<nav align="center"> 
+<?php 
