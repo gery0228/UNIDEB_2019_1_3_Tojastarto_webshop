@@ -244,5 +244,63 @@ session_start();
 			</div>
 			<!-- /MAIN HEADER -->
 			
+			</header>
+		<!-- /HEADER -->
+		<nav id='navigation'>
+			<!-- container -->
+            <div class="container" id="get_category_home">
+                
+            </div>
+				<!-- responsive-nav -->
+				
+			<!-- /container -->
+		</nav>
+            
+
+		<!-- NAVIGATION -->
+		
+		<div class="modal fade" id="Modal_login" role="dialog">
+                        <div class="modal-dialog">
+													
+                          <!-- Modal content-->
+                          <div class="modal-content">
+                            <div class="modal-header">
+                              <button type="button" class="close" data-dismiss="modal">&times;</button>
+                              
+                            </div>
+                            <div class="modal-body">
+                            <?php
+                                include "login_form.php";
+    
+                            ?>
+          
+                            </div>
+                            
+                          </div>
+													
+                        </div>
+                      </div>
+                <div class="modal fade" id="Modal_register" role="dialog">
+                        <div class="modal-dialog" style="">
+
+                          <!-- Modal content-->
+                          <div class="modal-content">
+                            <div class="modal-header">
+                              <button type="button" class="close" data-dismiss="modal">&times;</button>
+                              
+                            </div>
+                            <div class="modal-body">
+                            <?php
+                                include "register_form.php";
+    
+                            ?>
+          
+                            </div>
+                            
+                          </div>
+
+                        </div>
+                      </div>
+			
 		</body>
 		</html>
