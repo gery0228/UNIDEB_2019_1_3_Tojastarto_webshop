@@ -59,3 +59,16 @@ mysqli_close($con);
         <p>Termék neve</p>
         <input class="input-lg thumbnail form-control" type="text" name="product_name" id="product_name" autofocus style="width:100%" placeholder="Product Name" required>
 <p>Leírás/p>
+<textarea class="thumbnail form-control" name="details" id="details" style="width:100%; height:100px" placeholder="write here..." required></textarea>
+<p>Kép hozzáadása/p>
+<div style="background-color:#CCC">
+<input type="file" style="width:100%" name="picture" class="btn thumbnail" id="picture" >
+</div>
+</div>
+<div class="well">
+<h3>Ár</h3>
+<p>Ár</p>
+<div class="input-group">
+      <div class="input-group-addon">Ár</div>
+      <input type="text" class="form-control" name="price" id="price"  placeholder="0.00" required>
+    </div><br>
