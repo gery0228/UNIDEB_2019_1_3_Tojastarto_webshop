@@ -30,3 +30,60 @@
     </a>
   </div>
 </div>
+
+<!-- SECTION -->
+		<div class="section mainn mainn-raised">
+		
+		
+			<!-- container -->
+			<div class="container">
+			
+				<!-- row -->
+				<div class="row">
+					<!-- shop -->
+					<div class="col-md-4 col-xs-6">
+						<a href="product.php?p=78"><div class="shop">
+							<div class="shop-img">
+								<img src="./img/shop01.png" alt="">
+							</div>
+							<div class="shop-body">
+								<h3>Laptop<br>Kollekció</h3>
+								<a href="product.php?p=78" class="cta-btn">Vásárolj most <i class="fa fa-arrow-circle-right"></i></a>
+							</div>
+						</div></a>
+					</div>
+					<!-- /shop -->
+
+					<!-- shop -->
+					<div class="col-md-4 col-xs-6">
+						<a href="product.php?p=72"><div class="shop">
+							<div class="shop-img">
+								<img src="./img/shop03.png" alt="">
+							</div>
+							<div class="shop-body">
+								<h3>Kiegészítők<br>Kollekció</h3>
+								<a href="product.php?p=72" class="cta-btn">Vásárolj most <i class="fa fa-arrow-circle-right"></i></a>
+							</div>
+						</div></a>
+					</div>
+					<!-- /shop -->
+
+					<!-- shop -->
+					<div class="col-md-4 col-xs-6">
+						<a href="product.php?p=79"><div class="shop">
+							<div class="shop-img">
+								<img src="./img/shop02.png" alt="">
+							</div>
+							<div class="shop-body">
+								<h3>Kamerák<br>Kollekció</h3>
+								<a href="product.php?p=79" class="cta-btn">Vásárolj most <i class="fa fa-arrow-circle-right"></i></a>
+							</div>
+                            </div></a>
+					</div>
+					<!-- /shop -->
+				</div>
+				<!-- /row -->
+			</div>
+			<!-- /container -->
+		</div>
+		<!-- /SECTION -->
