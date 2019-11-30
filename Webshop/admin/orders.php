@@ -60,3 +60,23 @@ echo "<tr><td>$cus_name</td><td>$p_names</td><td>$email<br>$contact_no</td><td>$
 </div></div>
 <nav align="center"> 
 <?php 
+
+$paging=mysqli_query($con,"select product_id,product_image, product_title,product_price from products");
+$count=mysqli_num_rows($paging);
+
+$a=$count/5;
+$a=ceil($a);
+echo "<bt>";echo "<bt>";
+for($b=1; $b<=$a;$b++)
+{
+?> 
+<ul class="pagination " style="border:groove #666">
+<li><a class="label-info" href="orders.php?page=<?php echo $b;?>"><?php echo $b." ";?></a></li></ul>
+<?php	
+}
+?>
+</nav>
+</div></div>
+<?php include("include/js.php");?>
+</body>
+</html>
