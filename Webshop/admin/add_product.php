@@ -72,3 +72,19 @@ mysqli_close($con);
       <div class="input-group-addon">Ár</div>
       <input type="text" class="form-control" name="price" id="price"  placeholder="0.00" required>
     </div><br>
+
+      </div>
+        </div>  
+        <div class="col-lg-5">
+        <div class="well">
+<h3>Kategória</h3>  
+<p>Termék típusa</p>
+<input type="number" name="product_type" id="product_type" class="form-control" placeholder="">
+<br>
+<p>Márka</p>
+<input type="number" name="brand" id="brand" class="form-control" placeholder="">
+<br>
+<p>Egyéb</p>
+<input type="text" name="tags" id="tags" class="form-control" placeholder="">
+</div>          
+</div>
