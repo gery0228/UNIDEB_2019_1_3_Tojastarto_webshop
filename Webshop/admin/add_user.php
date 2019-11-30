@@ -51,3 +51,11 @@ mysqli_close($con);
     <input name="email" class="input-lg" type="text"  id="email" style="font-size:18px; width:330px" placeholder="Email" autofocus required><br><br>
     </div>
     <div class="col-sm-6">
+    	<input name="user_password" class="input-lg" type="text"  id="user_password" style="font-size:18px; width:330px"  placeholder="Jelszó" required><br><br>
+    </div>
+     <div class="col-sm-6">
+    <input name="mobile" class="input-lg" type="phone"  id="mobile" style="font-size:18px; width:330px" placeholder="Mobil szám" autofocus required><br><br>
+    </div>
+     <div class="col-sm-6">
+    <input name="address1" class="input-lg" type="text"  id="address1" style="font-size:18px; width:330px" placeholder="Cím1" autofocus required><br><br>
+    </div>
