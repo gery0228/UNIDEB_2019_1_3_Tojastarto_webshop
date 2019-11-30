@@ -29,3 +29,13 @@ mysqli_close($con);
 <link href="style/css/k.css" rel="stylesheet">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
 </head>
+
+<body>
+<?php include("include/header.php"); ?>
+
+<div class="container-fluid">
+<?php include("include/side_bar.php"); ?>
+
+  <div class="col-sm-9 " align="center">	
+  <div class="panel-heading" style="background-color:#c4e17f;">
+	<h1>Felhasználó hozzáadása  </h1></div><br>
