@@ -1,4 +1,5 @@
-<div class="main main-raised">
+
+   <div class="main main-raised">
         <div class="container mainn-raised" style="width:100%;">
   
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -18,8 +19,14 @@
         <img src="img/tel.jpg" alt="Los Angeles" style="width:100%;">
         
       </div>
-	  
-	  <!-- Left and right controls -->
+
+      
+    
+      
+  
+   
+
+    <!-- Left and right controls -->
     <a class="left carousel-control _26sdfg" href="#myCarousel" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left"></span>
       <span class="sr-only" >Előző</span>
@@ -30,8 +37,10 @@
     </a>
   </div>
 </div>
+     
 
-<!-- SECTION -->
+
+		<!-- SECTION -->
 		<div class="section mainn mainn-raised">
 		
 		
@@ -87,7 +96,9 @@
 			<!-- /container -->
 		</div>
 		<!-- /SECTION -->
+		  
 		
+
 		<!-- SECTION -->
 		<div class="section">
 			<!-- container -->
@@ -200,9 +211,8 @@
 			<!-- /container -->
 		</div>
 		<!-- /SECTION -->
-		
-		
-		!-- HOT DEAL SECTION -->
+
+		<!-- HOT DEAL SECTION -->
 		<div id="hot-deal" class="section mainn mainn-raised">
 			<!-- container -->
 			<div class="container">
@@ -248,7 +258,7 @@
 		</div>
 		<!-- /HOT DEAL SECTION -->
 		
-		
+
 		<!-- SECTION -->
 		<div class="section">
 			<!-- container -->
@@ -356,9 +366,8 @@
 			<!-- /container -->
 		</div>
 		<!-- /SECTION -->
-		
-		
-		!-- SECTION -->
+
+		<!-- SECTION -->
 		<div class="section">
 			<!-- container -->
 			<div class="container">
@@ -620,3 +629,5 @@
 			<!-- /container -->
 		</div>
 		<!-- /SECTION -->
+</div>
+		
