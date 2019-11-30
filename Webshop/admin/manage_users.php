@@ -23,3 +23,36 @@ mysqli_query($con,"delete from user_info where user_id='$user_id'")or die("query
 <?php include("include/header.php"); ?>
 
 <div class="container-fluid">
+
+	<?php include("include/side_bar.php"); ?>
+<div class="col-sm-9" style="margin-left:10px"> 
+<div class="panel-heading" style="background-color:#c4e17f">
+	<h1>Felhasználók szerkesztése </h1></div><br>
+
+<div style="overflow-x:scroll;">
+<table class="table table-bordered table-hover table-striped" style="font-size:18px">
+	<tr>
+			    <th>Felhaszálónév</th>
+                <th>Jelszó</th>
+	<th><a href="add_user.php">Új hozzáadásx</a></th></tr>	
+<?php 
+$result=mysqli_query($con,"select user_id, email, password from user_info")or die ("query 2 incorrect.......");
+
+while(list($user_id,$user_name,$user_password)=
+mysqli_fetch_array($result))
+{
+echo "<tr><td>$user_name</td><td>$user_password</td>";
+
+echo"<td>
+<a href='edit_user.php?user_id=$user_id'>Szerkesztés</a>
+<a href='manage_users.php?user_id=$user_id&action=delete'>Törlés</a>
+</td></tr>";
+}
+mysqli_close($con);
+?>
+</table>
+</div>	
+</div></div>
+<?php include("include/js.php"); ?>
+</body>
+</html>
