@@ -29,3 +29,16 @@ mysqli_query($con,"insert into products (product_cat, product_brand,product_titl
 
  header("location: sumit_form.php?success=1");
 }
+
+mysqli_close($con);
+}
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Adminisztrátor felület</title>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="style/css/bootstrap.min.css" rel="stylesheet">
+<link href="style/css/k.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
