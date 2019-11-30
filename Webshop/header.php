@@ -155,5 +155,94 @@ session_start();
 				</div>
 			</div>
 			<!-- /TOP HEADER -->
+			
+			<!-- MAIN HEADER -->
+			<div id="header">
+				<!-- container -->
+				<div class="container">
+					<!-- row -->
+					<div class="row">
+						<!-- LOGO -->
+						<div class="col-md-3">
+							<div class="header-logo">
+								<a href="#" class="logo">
+								<font style="font-style:normal; font-size: 33px;color: aliceblue;font-family: serif">
+                                        Tojástarto Webáruház
+                                    </font>
+									
+								</a>
+							</div>
+						</div>
+						<!-- /LOGO -->
+
+						<!-- SEARCH BAR -->
+						<div class="col-md-6">
+							<div class="header-search">
+								<form>
+									<select class="input-select">
+										<option value="0">Minden kategória</option>
+										<option value="1">Ruha (F)</option>
+										<option value="1">Ruha (N) </option>
+									</select>
+									<input class="input" id="search" type="text" placeholder="Keresendő termék">
+									<button type="submit" id="search_btn" class="search-btn">Keresés</button>
+								</form>
+							</div>
+						</div>
+						<!-- /SEARCH BAR -->
+
+						<!-- ACCOUNT -->
+						<div class="col-md-3 clearfix">
+							<div class="header-ctn">
+								<!-- Wishlist -->
+								<div>
+									<a href="https://github.com/gery0228/UNIDEB_2019_1_3_Tojastarto_webshop">
+										<i class="fa fa-github"></i>
+										<span>Github</span>
+										
+									</a>
+								</div>
+								<!-- /Wishlist -->
+
+								<!-- Cart -->
+								<div class="dropdown">
+									<a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">
+										<i class="fa fa-shopping-cart"></i>
+										<span>Kosarad</span>
+										<div class="badge qty">0</div>
+									</a>
+									<div class="cart-dropdown"  >
+										<div class="cart-list" id="cart_product">
+										
+											
+										</div>
+										
+										<div class="cart-btns">
+												<a href="cart.php" style="width:100%;"><i class="fa fa-edit"></i>  Kosár szerkesztése</a>
+											
+										</div>
+									</div>
+										
+									</div>
+								<!-- /Cart -->
+
+								<!-- Menu Toogle -->
+								<div class="menu-toggle">
+									<a href="#">
+										<i class="fa fa-bars"></i>
+										<span>Menü</span>
+									</a>
+								</div>
+								<!-- /Menu Toogle -->
+							</div>
+						</div>
+						<!-- /ACCOUNT -->
+					</div>
+					<!-- row -->
+				</div>
+				<!-- container -->
+			</div>
+			<!-- /MAIN HEADER -->
+			
 		</body>
 		</html>
