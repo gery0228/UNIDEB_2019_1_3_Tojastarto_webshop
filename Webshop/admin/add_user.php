@@ -59,3 +59,13 @@ mysqli_close($con);
      <div class="col-sm-6">
     <input name="address1" class="input-lg" type="text"  id="address1" style="font-size:18px; width:330px" placeholder="Cím1" autofocus required><br><br>
     </div>
+    <div class="col-sm-6">
+    <input name="address2" class="input-lg" type="text"  id="address2" style="font-size:18px; width:330px" placeholder="Cím2" autofocus required><br><br>
+    </div>
+<div class="col-sm-7" style="margin:20px;margin-left:90px;">
+    <button type="submit" class="btn btn-success btn-block center" name="btn_save" id="btn_save" style="font-size:18px">Hozzáadás</button></div>
+</form>
+</div></div>
+<?php include("include/js.php"); ?>
+</body>
+</html>
