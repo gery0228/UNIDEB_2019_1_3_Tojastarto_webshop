@@ -10,8 +10,7 @@ include "header.php";
 				});
 			});
 </script>
-
-<script>
+		<script>
     
     (function (global) {
 	if(typeof (global) === "undefined")
@@ -48,7 +47,7 @@ include "header.php";
 })(window);
 </script>
 
-<!-- SECTION -->
+		<!-- SECTION -->
 		<div class="section main main-raised">
 			<!-- container -->
 			<div class="container">
@@ -118,7 +117,6 @@ include "header.php";
 									';
                                     
 									?>
-									
 									<!-- FlexSlider -->
 									
 									<?php 
@@ -210,7 +208,7 @@ include "header.php";
 					<!-- Product details -->
 					
 					<!-- /Product details -->
-					
+
 					<!-- Product tab -->
 					<div class="col-md-12">
 						<div id="product-tab">
@@ -330,7 +328,7 @@ include "header.php";
 											</div>
 										</div>
 										<!-- /Rating -->
-										
+
 										<!-- Reviews -->
 										<div class="col-md-6">
 											<div id="reviews">
@@ -404,7 +402,7 @@ include "header.php";
 									$_SESSION['product_id'] = $row['product_id'];
 									}
 								} 
-								?>
+								?>	
 								<?php
                     include 'db.php';
 								$product_id = $_GET['p'];
