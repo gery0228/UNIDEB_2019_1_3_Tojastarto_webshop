@@ -330,3 +330,78 @@ include "header.php";
 											</div>
 										</div>
 										<!-- /Rating -->
+										
+										<!-- Reviews -->
+										<div class="col-md-6">
+											<div id="reviews">
+												<ul class="reviews">
+												
+													
+													</li>
+												</ul>
+												<ul class="reviews-pagination">
+													<li class="active">1</li>
+													<li><a href="#">2</a></li>
+													<li><a href="#">3</a></li>
+													<li><a href="#">4</a></li>
+													<li><a href="#"><i class="fa fa-angle-right"></i></a></li>
+												</ul>
+											</div>
+										</div>
+										<!-- /Reviews -->
+
+										<!-- Review Form -->
+										<div class="col-md-3 mainn">
+											<div id="review-form">
+												<form class="review-form">
+													<input class="input" type="text" placeholder="A neved">
+													<input class="input" type="email" placeholder="Az email címed">
+													<textarea class="input" placeholder="Az értékeléseid"></textarea>
+													<div class="input-rating">
+														<span>Értékelésed: </span>
+														<div class="stars">
+															<input id="star5" name="rating" value="5" type="radio"><label for="star5"></label>
+															<input id="star4" name="rating" value="4" type="radio"><label for="star4"></label>
+															<input id="star3" name="rating" value="3" type="radio"><label for="star3"></label>
+															<input id="star2" name="rating" value="2" type="radio"><label for="star2"></label>
+															<input id="star1" name="rating" value="1" type="radio"><label for="star1"></label>
+														</div>
+													</div>
+													<button class="primary-btn">Elküldés</button>
+												</form>
+											</div>
+										</div>
+										<!-- /Review Form -->
+									</div>
+								</div>
+								<!-- /tab3  -->
+							</div>
+							<!-- /product tab content  -->
+						</div>
+					</div>
+					<!-- /product tab -->
+				</div>
+				<!-- /row -->
+			</div>
+			<!-- /container -->
+		</div>
+		<!-- /SECTION -->
+
+		<!-- Section -->
+		<div class="section main main-raised">
+			<!-- container -->
+			<div class="container">
+				<!-- row -->
+				<div class="row">
+                    
+					<div class="col-md-12">
+						<div class="section-title text-center">
+							<h3 class="title">Ajánlott termékek</h3>
+							
+						</div>
+					</div>
+                    ';
+									$_SESSION['product_id'] = $row['product_id'];
+									}
+								} 
+								?>
