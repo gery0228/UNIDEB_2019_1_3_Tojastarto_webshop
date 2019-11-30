@@ -118,3 +118,95 @@ include "header.php";
 									';
                                     
 									?>
+									
+									<!-- FlexSlider -->
+									
+									<?php 
+									echo '
+									
+                                    
+                                   
+                    <div class="col-md-5">
+						<div class="product-details">
+							<h2 class="product-name">'.$row['product_title'].'</h2>
+							<div>
+								<div class="product-rating">
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star-o"></i>
+								</div>
+								<a class="review-link" href="#review-form">Vélemények | Írd le a véleményed a termékről</a>
+							</div>
+							<div>
+								<h3 class="product-price">$'.$row['product_price'].'<del class="product-old-price">$990.00</del></h3>
+								<span class="product-available">Készleten</span>
+							</div>
+							<p></p>
+
+							<div class="product-options">
+								<label>
+									Méret
+									<select class="input-select">
+										<option value="0">X</option>
+									</select>
+								</label>
+								<label>
+									Szín
+									<select class="input-select">
+										<option value="0">Fekete</option>
+									</select>
+								</label>
+							</div>
+
+							<div class="add-to-cart">
+								<div class="qty-label">
+									Mennyiség
+									<div class="input-number">
+										
+										<span class="qty-up">+</span>
+										<span class="qty-down">-</span>
+									</div>
+								</div>
+								<div class="btn-group" style="margin-left: 25px; margin-top: 15px">
+								<button class="add-to-cart-btn" pid="'.$row['product_id'].'"  id="product" ><i class="fa fa-shopping-cart"></i> Kosárba rakás</button>
+                                </div>
+								
+								
+							</div>
+
+							<ul class="product-btns">
+								<li><a href="#"><i class="fa fa-heart-o"></i> Kívánságlistához</a></li>
+								<li><a href="#"><i class="fa fa-exchange"></i> Összehasonlítás</a></li>
+							</ul>
+
+							<ul class="product-links">
+								<li>Kategória:</li>
+								<li><a href="#">Telefon</a></li>
+								<li><a href="#">Kiegészítő</a></li>
+							</ul>
+
+							<ul class="product-links">
+								<li>Megosztás:</li>
+								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+								<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+								<li><a href="#"><i class="fa fa-envelope"></i></a></li>
+							</ul>
+
+						</div>
+					</div>
+									
+					
+					<!-- /Product main img -->
+
+					<!-- Product thumb imgs -->
+					
+					
+					
+					<!-- /Product thumb imgs -->
+
+					<!-- Product details -->
+					
+					<!-- /Product details -->
