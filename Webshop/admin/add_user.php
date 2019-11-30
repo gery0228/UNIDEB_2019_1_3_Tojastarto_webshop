@@ -39,3 +39,15 @@ mysqli_close($con);
   <div class="col-sm-9 " align="center">	
   <div class="panel-heading" style="background-color:#c4e17f;">
 	<h1>Felhasználó hozzáadása  </h1></div><br>
+
+	form action="add_user.php" name="form" method="post">
+<div class="col-sm-6">
+    <input name="first_name" class="input-lg" type="text"  id="first_name" style="font-size:18px; width:330px" placeholder="Keresztnév" autofocus required><br><br>
+</div>
+<div class="col-sm-6">
+<input name="last_name" class="input-lg" type="text"  id="last_name" style="font-size:18px; width:330px" placeholder="Vezetéknév" autofocus required><br><br>
+    </div>
+    <div class="col-sm-6">
+    <input name="email" class="input-lg" type="text"  id="email" style="font-size:18px; width:330px" placeholder="Email" autofocus required><br><br>
+    </div>
+    <div class="col-sm-6">
