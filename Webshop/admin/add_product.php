@@ -88,3 +88,15 @@ mysqli_close($con);
 <input type="text" name="tags" id="tags" class="form-control" placeholder="">
 </div>          
 </div>
+
+<div align="center">
+    <button type="submit" name="submit" id="submit" class="btn btn-default" style="width:100px; height:60px"> Törlés</button>
+    <button type="submit" name="submit" id="submit" class="btn btn-success" style="width:150px; height:60px""> Termék hozzáadása>
+    </div>
+        </form>
+ 
+	</div>
+</div></div></div>
+<?php include("include/js.php"); ?>
+</body>
+</html>
