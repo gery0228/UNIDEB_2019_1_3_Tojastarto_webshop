@@ -212,6 +212,16 @@ include 'header.php';
 								</li>
 							</ul>
 						</div>
+						
+						<!-- /store bottom filter -->
+					</div>
+					<!-- /STORE -->
+				</div>
+				<!-- /row -->
+			</div>
+			<!-- /container -->
+		</div>
+</div>
 <?php						
 include "newslettter.php";
 include "footer.php";
