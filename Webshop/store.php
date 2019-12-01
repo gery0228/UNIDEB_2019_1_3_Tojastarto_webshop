@@ -188,6 +188,30 @@ include 'header.php';
 							<!-- /product -->
 						</div>
 						
+						<!-- /store products -->
+
+						<!-- store bottom filter -->
+						<div class="store-filter clearfix">
+						
+							<span class="store-qty"> 20-100 termék</span>
+							
+							<ul class="store-pagination" id="pageno">
+								
+								<li >
+									<a class="active" href="#aside">1</a>
+									
+								</li>
+								
+								<li>
+									<a href="#">
+									
+										<i class="fa fa-angle-right">
+										
+										</i>
+									</a>
+								</li>
+							</ul>
+						</div>
 <?php						
 include "newslettter.php";
 include "footer.php";
