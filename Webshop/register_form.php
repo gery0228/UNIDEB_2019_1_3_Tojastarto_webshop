@@ -43,3 +43,26 @@
                                     <div class="form-group">
                                         <input class="input form-control input-borders" type="text" name="mobile" id="mobile" placeholder="Telefonszám">
                                     </div>
+									
+									
+                                    <div class="form-group">
+                                        <input class="input form-control input-borders" type="text" name="address1" id="address1" placeholder="Cím">
+                                    </div>
+									
+                                    <div class="form-group">
+                                        <input class="input form-control input-borders" type="text" name="address2" id="address2" placeholder="Város">
+                                    </div>
+                                    
+                                    
+                                    <div style="form-group">
+                                       <input class="primary-btn btn-block"  value="Regisztráció" type="submit" name="signup_button">
+                                    </div>
+									
+									
+                                    <div class="text-pad">
+                                    <a href="" data-toggle="modal" data-target="#Modal_login">Már rendelkezel felhasználóval ? Akkor jelentkezz be</a>
+                                       
+                                    </div>
+                                    
+                                
+								</form>
