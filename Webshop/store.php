@@ -21,6 +21,15 @@ include 'header.php';
             global.location.href += "!";
         }, 50);
     };
+	
+	// Earlier we had setInerval here....
+    global.onhashchange = function () 
+	{
+        if (global.location.hash !== _hash) 
+		{
+            global.location.hash = _hash;
+        }
+    };
 })(window);	
 	 </script>
 	 
