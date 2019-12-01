@@ -296,5 +296,17 @@ if(isset($_POST["get_seleted_Category"]) || isset($_POST["selectBrand"]) || isse
 	exit();
 	}
 	//Count User cart item
+	
+	//Get Cart Item From Database to Dropdown menu
+if (isset($_POST["Common"])) {
+
+	if (isset($_SESSION["uid"])) {
+		//When user is logged in this query will execute
+		$sql = "SELECT a.product_id,a.product_title,a.product_price,a.product_image,b.id,b.qty FROM products a,cart b WHERE a.product_id=b.p_id AND b.user_id='$_SESSION[uid]'";
+	}else{
+		//When user is not logged in this query will execute
+		$sql = "SELECT a.product_id,a.product_title,a.product_price,a.product_image,b.id,b.qty FROM products a,cart b WHERE a.product_id=b.p_id AND b.ip_add='$ip_add' AND b.user_id < 0";
+	}
+	$query = mysqli_query($con,$sql);
 ?>
 
