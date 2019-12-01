@@ -23,3 +23,7 @@ if(empty($f_name) || empty($l_name) || empty($email) || empty($password) || empt
 				<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a><b>Kérlek tölts ki minden mezőt..!</b>
 			</div>
 		";
+		exit();
+	} else {
+		if(!preg_match($name,$f_name)){
+		echo "
