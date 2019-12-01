@@ -70,8 +70,6 @@ if (isset($_GET["st"])) {
 								<div class="col-md-2">
 								</div>
 								<div class="col-md-8">
-								</div>
-								<div class="col-md-2">
 									<div class="panel panel-default">
 										<div class="panel-heading"></div>
 										<div class="panel-body">
@@ -83,6 +81,8 @@ if (isset($_GET["st"])) {
 										</div>
 										<div class="panel-footer"></div>
 									</div>
+								</div>
+								<div class="col-md-2">
 								</div>
 							</div>
 						</div>
