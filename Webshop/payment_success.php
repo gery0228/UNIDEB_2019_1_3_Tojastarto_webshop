@@ -21,3 +21,9 @@ if (isset($_GET["st"])) {
 		include_once("db.php");
 		$sql = "SELECT p_id,qty FROM cart WHERE user_id = '$cm_user_id'";
 		$query = mysqli_query($con,$sql);
+		if (mysqli_num_rows($query) > 0) {
+			# code...
+			while ($row=mysqli_fetch_array($query)) {
+			$product_id[] = $row["p_id"];
+			$qty[] = $row["qty"];
+			}
