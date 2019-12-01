@@ -66,3 +66,31 @@
                                     
                                 
 								</form>
+								
+								<div class="login-marg">
+						<!-- Billing Details -->
+						
+						<div class="row">
+						
+                            <div class="col-md-2"></div>
+                            <div class="col-md-8" id="signup_msg">
+                                    
+
+                                </div>
+								
+                                <!--Alert from signup form-->
+								
+                            </div>
+                            <div class="col-md-2"></div>
+                        </div>
+
+						
+					</div>
+					
+                </div> 
+
+					
+				
+				<!-- /row -->
+
+			
