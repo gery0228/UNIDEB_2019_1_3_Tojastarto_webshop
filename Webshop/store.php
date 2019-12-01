@@ -95,7 +95,28 @@ include 'header.php';
 									<span class="qty-up">+</span>
 									<span class="qty-down">-</span>
 								</div>
-<?php
+							</div>
+						</div>
+						<!-- /aside Widget -->
+
+						<!-- aside Widget -->
+						<div id="get_brand">
+				        </div>
+						<!-- /aside Widget -->
+
+						<!-- aside Widget -->
+						<div class="aside">
+							<h3 class="aside-title">Népszerű termékek</h3>
+							<div id="get_product_home">
+								<!-- product widget -->
+								
+								<!-- product widget -->
+							</div>
+						</div>
+						<!-- /aside Widget -->
+					</div>
+					<!-- /ASIDE -->
+<?php						
 include "newslettter.php";
 include "footer.php";
 ?>
