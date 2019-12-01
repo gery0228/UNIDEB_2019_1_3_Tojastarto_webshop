@@ -49,3 +49,8 @@ if(empty($f_name) || empty($l_name) || empty($email) || empty($password) || empt
 			<div class='alert alert-warning'>
 				<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a>
 				<b>Ez az $email nem megfelelő..!</b>
+			</div>
+		";
+		exit();
+	}
+	if(strlen($password) < 9 ){
