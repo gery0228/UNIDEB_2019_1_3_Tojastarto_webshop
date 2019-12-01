@@ -91,4 +91,8 @@ if(empty($f_name) || empty($l_name) || empty($email) || empty($password) || empt
 	}
 	if(!(strlen($mobile) == 10))
 	{
-		
+		echo "
+			<div class='alert alert-warning'>
+				<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a>
+				<b>A telefonszámnak érvényesnek kell lennie</b>
+			</div>
