@@ -153,7 +153,22 @@ if(isset($_POST["getProduct"])){
 	}
 }
 
-
+if(isset($_POST["get_seleted_Category"]) || isset($_POST["selectBrand"]) || isset($_POST["search"])){
+	if(isset($_POST["get_seleted_Category"])){
+		$id = $_POST["cat_id"];
+		$sql = "SELECT * FROM products,categories WHERE product_cat = '$id' AND product_cat=cat_id";
+        
+	}else if(isset($_POST["selectBrand"])){
+		$id = $_POST["brand_id"];
+		$sql = "SELECT * FROM products,categories WHERE product_brand = '$id' AND product_cat=cat_id";
+	}else {
+        
+		$keyword = $_POST["keyword"];
+        header('Location:store.php');
+		$sql = "SELECT * FROM products,categories WHERE product_cat=cat_id AND product_keywords LIKE '%$keyword%'";
+       
+	}
+	
 
 ?>
 
