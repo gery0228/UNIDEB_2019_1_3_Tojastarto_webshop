@@ -60,3 +60,8 @@ if(empty($f_name) || empty($l_name) || empty($email) || empty($password) || empt
 				<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a>
 				<b>Gyenge jelszó</b>
 			</div>
+		";
+		exit();
+	}
+	if(strlen($repassword) < 9 ){
+		echo "
