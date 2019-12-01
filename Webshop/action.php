@@ -80,5 +80,18 @@ if(isset($_POST["brand"])){
 		echo "</div>";
 	}
 }
+if(isset($_POST["page"])){
+	$sql = "SELECT * FROM products";
+	$run_query = mysqli_query($con,$sql);
+	$count = mysqli_num_rows($run_query);
+	$pageno = ceil($count/9);
+	for($i=1;$i<=$pageno;$i++){
+		echo "
+			<li><a href='#product-row' page='$i' id='page' class='active'>$i</a></li>
+            
+            
+		";
+	}
+}
 ?>
 
