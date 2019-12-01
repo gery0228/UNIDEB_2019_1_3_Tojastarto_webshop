@@ -14,6 +14,16 @@ if (isset($_POST["email"])) {
 			</div>
 		";
 		exit();
-    }else
+    }else{
+        if(!preg_match($emailValidation,$email)){
+		echo "
+			<div class='alert alert-warning'>
+				<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a>
+				<b>Érvénytelen email!</b>
+			</div>
+		";
+		exit();
+	}
+	
 
 ?>
