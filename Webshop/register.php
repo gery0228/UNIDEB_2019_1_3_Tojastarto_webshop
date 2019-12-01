@@ -33,3 +33,10 @@ if(empty($f_name) || empty($l_name) || empty($email) || empty($password) || empt
 			</div>
 		";
 		exit();
+		
+		}
+	if(!preg_match($name,$l_name)){
+		echo "
+			<div class='alert alert-warning'>
+				<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a>
+				
