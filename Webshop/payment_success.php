@@ -14,3 +14,10 @@ if (isset($_GET["st"])) {
 		$cc = $_GET["cc"];
 		$cm_user_id = $_GET["cm"];
 		$c_amt = $_COOKIE["ta"];
+	if ($p_st == "Completed") {
+
+		
+
+		include_once("db.php");
+		$sql = "SELECT p_id,qty FROM cart WHERE user_id = '$cm_user_id'";
+		$query = mysqli_query($con,$sql);
