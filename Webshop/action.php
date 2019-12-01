@@ -422,5 +422,26 @@ if (isset($_POST["Common"])) {
                             
                             ';
 				}
+				
+				echo '</tbody>
+				<tfoot>
+					
+					<tr>
+						<td><a href="store.php" class="btn btn-warning"><i class="fa fa-angle-left"></i> Vásárlás folyatása</a></td>
+						<td colspan="2" class="hidden-xs"></td>
+						<td class="hidden-xs text-center"><b class="net_total" ></b></td>
+						<div id="issessionset"></div>
+                        <td>
+							
+							';
+				if (!isset($_SESSION["uid"])) {
+					echo '
+					
+							<a href="" data-toggle="modal" data-target="#Modal_register" class="btn btn-success">Kifizetés</a></td>
+								</tr>
+							</tfoot>
+				
+							</table></div></div>';
+                }else if
 ?>
 
