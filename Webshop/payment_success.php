@@ -72,6 +72,17 @@ if (isset($_GET["st"])) {
 								<div class="col-md-8">
 								</div>
 								<div class="col-md-2">
+									<div class="panel panel-default">
+										<div class="panel-heading"></div>
+										<div class="panel-body">
+											<h1>Köszönjük </h1>
+											<hr/>
+											<p>Hello <?php echo "<b>".$_SESSION["name"]."</b>"; ?>,A tranzakció sikeres volt, a tranzakció azonosítód: <b><?php echo $trx_id; ?></b><br/>
+											Folytathatod a vásárlást <br/></p>
+											<a href="index.php" class="btn btn-success btn-lg">Vásárlás folytatása</a>
+										</div>
+										<div class="panel-footer"></div>
+									</div>
 								</div>
 							</div>
 						</div>
