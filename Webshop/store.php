@@ -50,6 +50,15 @@ include 'header.php';
     };
 })(window);	
 	 </script>
+		<div class="main main-raised"> 
+        
+		<div class="section">
+			<!-- container -->
+			<div class="container">
+				<!-- row -->
+				<div class="row">
+					<!-- ASIDE -->
+					
 	 
 <?php
 include "newslettter.php";
