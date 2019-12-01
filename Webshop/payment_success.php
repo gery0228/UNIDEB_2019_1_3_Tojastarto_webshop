@@ -37,3 +37,15 @@ if (isset($_GET["st"])) {
 			if (mysqli_query($con,$sql)) {
 				?>
 					<!DOCTYPE html>
+					<html>
+						<head>
+							<meta charset="UTF-8">
+							<title>Tojástartó webáruház</title>
+							<link rel="stylesheet" href="css/bootstrap.min.css"/>
+							<script src="js/jquery2.js"></script>
+							<script src="js/bootstrap.min.js"></script>
+							<script src="main.js"></script>
+							<style>
+								table tr td {padding:10px;}
+							</style>
+						</head>
