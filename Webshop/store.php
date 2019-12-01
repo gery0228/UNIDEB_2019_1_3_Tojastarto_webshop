@@ -58,8 +58,15 @@ include 'header.php';
 				<!-- row -->
 				<div class="row">
 					<!-- ASIDE -->
-					
-	 
+					<div id="aside" class="col-md-3">
+						<!-- aside Widget -->
+						<div id="get_category">
+				        </div>
+						<!-- /aside Widget -->
+
+						<!-- aside Widget -->
+						<div class="aside">
+							
 <?php
 include "newslettter.php";
 include "footer.php";
