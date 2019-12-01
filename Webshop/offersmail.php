@@ -25,5 +25,18 @@ if (isset($_POST["email"])) {
 		exit();
 	}
 	
+	$sql = "SELECT email_id FROM email_info WHERE email = '$email' LIMIT 1" ;
+        $check_query = mysqli_query($con,$sql);
+        $count_email = mysqli_num_rows($check_query);
+        if($count_email > 0){
+            echo "
+                <div class='alert alert-danger'>
+                    <a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a>
+                    <b>Az email cím már regisztrálva van</b>
+                </div>
+            ";
+            exit();
+        }else
+	
 
 ?>
