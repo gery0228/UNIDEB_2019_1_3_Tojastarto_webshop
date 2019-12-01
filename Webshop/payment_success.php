@@ -49,3 +49,5 @@ if (isset($_GET["st"])) {
 								table tr td {padding:10px;}
 							</style>
 						</head>
+					<body>
+					</body>
