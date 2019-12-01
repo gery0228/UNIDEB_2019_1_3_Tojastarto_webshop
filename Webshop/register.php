@@ -27,3 +27,9 @@ if(empty($f_name) || empty($l_name) || empty($email) || empty($password) || empt
 	} else {
 		if(!preg_match($name,$f_name)){
 		echo "
+			<div class='alert alert-warning'>
+				<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a>
+				<b>Ez a  $f_name helytelen..!</b>
+			</div>
+		";
+		exit();
