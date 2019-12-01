@@ -86,3 +86,9 @@ if(empty($f_name) || empty($l_name) || empty($email) || empty($password) || empt
 				<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a>
 				<b>MA telefonszám $mobile nem megfelelő</b>
 			</div>
+		";
+		exit();
+	}
+	if(!(strlen($mobile) == 10))
+	{
+		
