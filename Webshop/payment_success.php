@@ -55,4 +55,13 @@ if (isset($_GET["st"])) {
 								<div class="navbar-header">
 									<a href="#" class="navbar-brand">Tojástartó webáruház</a>
 								</div>
+								<ul class="nav navbar-nav">
+									<li><a href="index.php"><span class="glyphicon glyphicon-home"></span>Főoldal</a></li>
+									<li><a href="profile.php"><span class="glyphicon glyphicon-modal-window"></span>Termékek</a></li>
+								</ul>
+							</div>
+						</div>
+						<p><br/></p>
+						<p><br/></p>
+						<p><br/></p>
 					</body>
