@@ -139,6 +139,18 @@ include 'header.php';
 									
 								</label>
 								
+								<label>
+								
+									Mennyiség:
+									
+									<select class="input-select">
+									
+										<option value="0">20</option>
+										<option value="1">50</option>
+									
+									</select>
+								
+								</label>
 <?php						
 include "newslettter.php";
 include "footer.php";
