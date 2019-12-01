@@ -354,5 +354,34 @@ if (isset($_POST["Common"])) {
 			exit();
 		}
 	}
+	
+	if (isset($_POST["checkOutDetails"])) {
+		if (mysqli_num_rows($query) > 0) {
+			//display user cart item with "Ready to checkout" button if user is not login
+			echo '<div class="main ">
+			<div class="table-responsive">
+			<form method="post" action="login_form.php">
+			
+	               <table id="cart" class="table table-hover table-condensed" id="">
+    				<thead>
+						<tr>
+							<th style="width:50%">Termék</th>
+							<th style="width:10%">Ár</th>
+							<th style="width:8%">Mennyiség</th>
+							<th style="width:7%" class="text-center">Teljes összeg</th>
+							<th style="width:10%"></th>
+						</tr>
+					</thead>
+					<tbody>
+                    ';
+				$n=0;
+				while ($row=mysqli_fetch_array($query)) {
+					$n++;
+					$product_id = $row["product_id"];
+					$product_title = $row["product_title"];
+					$product_price = $row["product_price"];
+					$product_image = $row["product_image"];
+					$cart_item_id = $row["id"];
+					$qty = $row["qty"];
 ?>
 
