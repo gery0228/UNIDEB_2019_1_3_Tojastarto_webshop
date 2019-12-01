@@ -50,4 +50,9 @@ if (isset($_GET["st"])) {
 							</style>
 						</head>
 					<body>
+						<div class="navbar navbar-inverse navbar-fixed-top">
+							<div class="container-fluid">	
+								<div class="navbar-header">
+									<a href="#" class="navbar-brand">Tojástartó webáruház</a>
+								</div>
 					</body>
