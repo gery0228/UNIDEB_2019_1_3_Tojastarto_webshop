@@ -18,4 +18,8 @@ if (isset($_POST["f_name"]))
 
 if(empty($f_name) || empty($l_name) || empty($email) || empty($password) || empty($repassword) ||
 	empty($mobile) || empty($address1) || empty($address2)){
-		
+		echo "
+			<div class='alert alert-warning'>
+				<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a><b>Kérlek tölts ki minden mezőt..!</b>
+			</div>
+		";
