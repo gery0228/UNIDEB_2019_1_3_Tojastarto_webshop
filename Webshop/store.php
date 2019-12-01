@@ -115,7 +115,30 @@ include 'header.php';
 						</div>
 						<!-- /aside Widget -->
 					</div>
+					
 					<!-- /ASIDE -->
+					
+					<!-- STORE -->
+					
+					<div id="store" class="col-md-9">
+					
+					
+						<!-- store top filter -->
+						
+						<div class="store-filter clearfix">
+							<div class="store-sort">
+								<label>
+									Rendezés:
+									
+									<select class="input-select">
+									
+										<option value="0">Népszerű</option>
+										<option value="1">Helyezés</option>
+									
+									</select>
+									
+								</label>
+								
 <?php						
 include "newslettter.php";
 include "footer.php";
