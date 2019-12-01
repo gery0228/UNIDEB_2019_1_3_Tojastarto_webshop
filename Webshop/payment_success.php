@@ -32,3 +32,8 @@ if (isset($_GET["st"])) {
 				$sql = "INSERT INTO orders (user_id,product_id,qty,trx_id,p_status) VALUES ('$cm_user_id','".$product_id[$i]."','".$qty[$i]."','$trx_id','$p_st')";
 				mysqli_query($con,$sql);
 			}
+			
+			$sql = "DELETE FROM cart WHERE user_id = '$cm_user_id'";
+			if (mysqli_query($con,$sql)) {
+				?>
+					<!DOCTYPE html>
