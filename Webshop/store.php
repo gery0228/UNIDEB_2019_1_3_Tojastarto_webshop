@@ -151,6 +151,23 @@ include 'header.php';
 									</select>
 								
 								</label>
+							</div>
+							<ul class="store-grid">
+								<li class="active">
+									<i class="fa fa-th">
+									
+									</i>
+								</li>
+								
+								<li>
+									<a href="#">
+										<i class="fa fa-th-list">
+										
+										</i>
+										</a>
+								</li>
+							</ul>
+						</div>
 <?php						
 include "newslettter.php";
 include "footer.php";
