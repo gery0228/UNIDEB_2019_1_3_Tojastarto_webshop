@@ -96,3 +96,9 @@ if(empty($f_name) || empty($l_name) || empty($email) || empty($password) || empt
 				<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a>
 				<b>A telefonszámnak érvényesnek kell lennie</b>
 			</div>
+		";
+		exit();
+	}
+	//existing email address in our database
+	$sql = "SELECT user_id FROM user_info WHERE email = '$email' LIMIT 1" ;
+	
