@@ -36,7 +36,24 @@ if (isset($_POST["email"])) {
                 </div>
             ";
             exit();
-        }else
+        }else{
+            
+            $sql = "INSERT INTO `email_info` 
+            (`email_id`, `email`)
+            VALUES (NULL, '$email')";
+            $run_query = mysqli_query($con,$sql);
+                echo "<div class='alert alert-success'>
+                    <a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a>
+                    <b>Köszönjük, hogy feliratkoztál</b>
+                </div>";
+                
+                
+            }
+
+        
+    }
+    
+}
 	
 
 ?>
