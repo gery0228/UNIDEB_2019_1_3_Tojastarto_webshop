@@ -308,5 +308,51 @@ if (isset($_POST["Common"])) {
 		$sql = "SELECT a.product_id,a.product_title,a.product_price,a.product_image,b.id,b.qty FROM products a,cart b WHERE a.product_id=b.p_id AND b.ip_add='$ip_add' AND b.user_id < 0";
 	}
 	$query = mysqli_query($con,$sql);
+	if (isset($_POST["getCartItem"])) {
+		//display cart item in dropdown menu
+		if (mysqli_num_rows($query) > 0) {
+			$n=0;
+			$total_price=0;
+			while ($row=mysqli_fetch_array($query)) {
+                
+				$n++;
+				$product_id = $row["product_id"];
+				$product_title = $row["product_title"];
+				$product_price = $row["product_price"];
+				$product_image = $row["product_image"];
+				$cart_item_id = $row["id"];
+				$qty = $row["qty"];
+				$total_price=$total_price+$product_price;
+				echo '
+					
+                    
+                    <div class="product-widget">
+												<div class="product-img">
+													<img src="product_images/'.$product_image.'" alt="">
+												</div>
+												<div class="product-body">
+													<h3 class="product-name"><a href="#">'.$product_title.'</a></h3>
+													<h4 class="product-price"><span class="qty">'.$n.'</span>$'.$product_price.'</h4>
+												</div>
+												
+											</div>'
+                    
+                    
+                    ;
+				
+			}
+            
+            echo '<div class="cart-summary">
+				    <small class="qty">'.$n.' Item(s) selected</small>
+				    <h5>$'.$total_price.'</h5>
+				</div>'
+            ?>
+				
+				
+			<?php
+			
+			exit();
+		}
+	}
 ?>
 
