@@ -39,4 +39,8 @@ if(empty($f_name) || empty($l_name) || empty($email) || empty($password) || empt
 		echo "
 			<div class='alert alert-warning'>
 				<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a>
-				
+				<b>Ez a  $l_name helytelen..!</b>
+			</div>
+		";
+		exit();
+	}
