@@ -250,5 +250,34 @@ if(isset($_POST["get_seleted_Category"]) || isset($_POST["selectBrand"]) || isse
 			}
 		}
 		}else{
+			$sql = "SELECT id FROM cart WHERE ip_add = '$ip_add' AND p_id = '$p_id' AND user_id = -1";
+			$query = mysqli_query($con,$sql);
+			if (mysqli_num_rows($query) > 0) {
+				echo "
+					<div class='alert alert-warning'>
+							<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a>
+							<b>A termék már a kosárban van..!</b>
+					</div>";
+					exit();
+			}
+			$sql = "INSERT INTO `cart`
+			(`p_id`, `ip_add`, `user_id`, `qty`) 
+			VALUES ('$p_id','$ip_add','-1','1')";
+			if (mysqli_query($con,$sql)) {
+				echo "
+					<div class='alert alert-success'>
+						<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a>
+						<b>Your product is Added Successfully..!</b>
+					</div>
+				";
+				exit();
+			}
+			
+		}
+		
+		
+		
+		
+	}
 ?>
 
