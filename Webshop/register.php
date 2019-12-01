@@ -105,3 +105,10 @@ if(empty($f_name) || empty($l_name) || empty($email) || empty($password) || empt
 	$count_email = mysqli_num_rows($check_query);
 	if($count_email > 0){
 		echo "
+			<div class='alert alert-danger'>
+				<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a>
+				<b>Ez az email már létezik, kérlek használj másikat</b>
+			</div>
+		";
+		exit();
+		
