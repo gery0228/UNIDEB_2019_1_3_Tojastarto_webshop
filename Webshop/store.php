@@ -83,6 +83,18 @@ include 'header.php';
 									</div>
 								</div>
 								
+								<div class="input-number price-min">
+									<input id="price-min" type="number">
+									<span class="qty-up">+</span>
+									<span class="qty-down">-</span>
+								</div>
+								
+								<span>-</span>
+								<div class="input-number price-max">
+									<input id="price-max" type="number">
+									<span class="qty-up">+</span>
+									<span class="qty-down">-</span>
+								</div>
 <?php
 include "newslettter.php";
 include "footer.php";
