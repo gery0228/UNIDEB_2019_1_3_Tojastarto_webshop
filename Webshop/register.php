@@ -75,3 +75,9 @@ if(empty($f_name) || empty($l_name) || empty($email) || empty($password) || empt
 	if($password != $repassword){
 		echo "
 			<div class='alert alert-warning'>
+				<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a>
+				<b>A jelszavak nem egyeznek</b>
+			</div>
+		";
+	}
+	
