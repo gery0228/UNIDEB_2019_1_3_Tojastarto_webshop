@@ -112,3 +112,9 @@ if(empty($f_name) || empty($l_name) || empty($email) || empty($password) || empt
 		";
 		exit();
 		
+	} 
+	else {
+		
+		$sql = "INSERT INTO `user_info` 
+		(`user_id`, `first_name`, `last_name`, `email`, 
+		`password`, `mobile`, `address1`, `address2`) 
