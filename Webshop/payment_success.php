@@ -87,3 +87,17 @@ if (isset($_GET["st"])) {
 							</div>
 						</div>
 					</body>
+					</html>
+
+				<?php
+			}
+		}else{
+			header("location:index.php");
+		}
+		
+	}
+}
+
+
+
+?>
