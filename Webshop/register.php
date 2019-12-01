@@ -113,7 +113,8 @@ if(empty($f_name) || empty($l_name) || empty($email) || empty($password) || empt
 		exit();
 		
 	} 
-	else {
+	else 
+	{
 		
 		$sql = "INSERT INTO `user_info` 
 		(`user_id`, `first_name`, `last_name`, `email`, 
@@ -128,3 +129,10 @@ if(empty($f_name) || empty($l_name) || empty($email) || empty($password) || empt
 		$sql = "UPDATE cart SET user_id = '$_SESSION[uid]' WHERE ip_add='$ip_add' AND user_id = -1";
 		if(mysqli_query($con,$sql)){
 			echo "Sikeres regisztráció";
+			
+			echo "<script> location.href='store.php'; </script>";
+            exit;
+		}
+	}
+	}
+	
