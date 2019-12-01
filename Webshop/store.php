@@ -168,6 +168,26 @@ include 'header.php';
 								</li>
 							</ul>
 						</div>
+						
+						<!-- /store top filter -->
+
+						<!-- store products -->
+						<div class="row" id="product-row">
+						
+							<div class="col-md-12 col-xs-12" id="product_msg">
+					
+							</div>
+							
+							
+							<!-- product -->
+							
+							<div id="get_product">
+								<!--Here we get product jquery Ajax Request-->
+							</div>
+							
+							<!-- /product -->
+						</div>
+						
 <?php						
 include "newslettter.php";
 include "footer.php";
