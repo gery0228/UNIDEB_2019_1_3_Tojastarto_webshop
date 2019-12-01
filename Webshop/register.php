@@ -70,3 +70,8 @@ if(empty($f_name) || empty($l_name) || empty($email) || empty($password) || empt
 				<b>Gyenge jelszó</b>
 			</div>
 		";
+		exit();
+	}
+	if($password != $repassword){
+		echo "
+			<div class='alert alert-warning'>
