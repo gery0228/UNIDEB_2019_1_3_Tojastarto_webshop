@@ -19,6 +19,7 @@ if (isset($_POST["login_user_with_product"])) {
 
 }
 
+?>
 
 	<div class="wait overlay">
 		<div class="loader"></div>
