@@ -89,5 +89,3 @@ if (isset($_POST["login_user_with_product"])) {
 	</div>
 	
 	
-	
-?>
