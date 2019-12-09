@@ -5,5 +5,4 @@
 | Kosár elérése         	                                 | Kosár szerkesztése gomb lenyomása		 | Kattintás		             | Bejön a kosár ablak		                        | Bejön a kosár ablak			                         | Átment		   |
 | Fizetés         	                                         | Fizetés gomb lenyomása		 			 | Kattintás		             | Bejön a fizetés/szállítási ablak		            | Bejön a fizetés/szállítási ablak				         | Átment		   |
 | Kosárból vissza a vásárláshoz         	                 | "Vissza a vásárláshoz" gomb megnyomása	 | Kattintás		             | Visszalépés a termékekhez		                | Visszalépés a termékekhez				                 | Átment		   |
-| Home gomb tesztelése         	                             | Home gomb lenyomása	                     | Kattintás		             | Visszatérés a főoldalra		                    | Visszatérés a főoldalra				                 | Átment		   |
 | Szállítási cím megadása        	                         | Szükséges mezők kitöltése	             | Folytstás a kifizetéshez	     | Hiba a formátummal		                        | Sikeres kifizetés				                         | Megbukott	   |
