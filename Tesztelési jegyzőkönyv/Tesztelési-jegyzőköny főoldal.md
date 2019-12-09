@@ -1,0 +1,3 @@
+| Teszt Leírása                                              | Szükséges művelet                         | Bemenet                       | Kimenet                                          | Elvárt kimenet                                         | Teszt eredménye |
+|------------------------------------------------------------|-------------------------------------------|-------------------------------|--------------------------------------------------|--------------------------------------------------------|-----------------|
+| Elektronika gomb tesztelése      			 			 	 | Elektronika gomb megnyomása				 | Kattintás 				 	 | Bejön az elektronika részleg				    	| Bejön az elektronika részleg						 	 | Átment          |
